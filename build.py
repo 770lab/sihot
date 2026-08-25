@@ -13,6 +13,14 @@ WPM=150
 def stamp(path):
     d=json.load(open(path)); ch=False
     for c in d.get('courses',[]):
+        if c.get('verbatim') or d.get('verbatim'):
+            # source signée : on garde son texte ET son minutage ; la durée suit la dernière étape
+            st=c['steps'][-1] if c.get('steps') else {'t':'0:00','p':''}
+            mm,ss=(int(x) for x in st.get('t','0:00').split(':'))
+            end=mm*60+ss+len(st.get('p','').split())/WPM*60   # début de la dernière étape + sa durée
+            m2=max(1,-(-int(end)//60))
+            if c.get('minutes')!=m2: c['minutes']=m2; ch=True
+            continue
         run=0
         for s in c['steps']:
             t=f"{int(run//60)}:{int(run%60):02d}"

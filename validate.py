@@ -9,7 +9,7 @@ for e in fr.get('entries',[]):
     for k in ['ref','suffix','kind','verse','theme','line','resume','lesson']:
         if k not in e: errs.append(f"{e.get('sid')} missing {k}")
     if e.get('kind') not in ('sicha','hossafa'): errs.append(f"{e.get('sid')} kind")
-    if e.get('kind')=='sicha' and len(e.get('resume','').split())<60: errs.append(f"{e.get('sid')} resume too short")
+    if e.get('kind')=='sicha' and len(e.get('resume','').split())<60 and not fr.get('verbatim'): errs.append(f"{e.get('sid')} resume too short")
     if len(e.get('line',''))>260: errs.append(f"{e.get('sid')} line too long")
 # les refs citées dans les cours doivent exister parmi les si'hot de la paracha
 refs={e.get('ref','').strip() for e in fr.get('entries',[])}
@@ -23,7 +23,7 @@ for i,co in enumerate(c):
     for r in co.get('refs',[]):
         if norm(r) not in nrefs: errs.append(f"course {i} ref inconnue: {r}")
     w=sum(len(s.get('p','').split()) for s in co.get('steps',[]))
-    if w<620: errs.append(f'course {i} trop court ({w} mots, minimum 620, soit ~4 min à voix haute)')
+    if w<620 and not (co.get('verbatim') or fr.get('verbatim')): errs.append(f'course {i} trop court ({w} mots, minimum 620, soit ~4 min à voix haute)')
 if not (3<=len(fr.get('threads',[]))<=6): errs.append('threads count')
 for k in ['fr','intro']:
     if not fr.get(k): errs.append(f'missing {k}')
