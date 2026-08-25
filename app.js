@@ -6,7 +6,7 @@ const bySlug=Object.fromEntries(P.map(p=>[p[0],p]));
 const norm=s=>(s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9֐-׿]+/g,' ').trim();
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 let INDEX=null, cache={}, weekSlugs=[];
-const V='?v=2b3f0e33';
+const V='?v=902e6cd5';
 
 /* ---------- volume label ---------- */
 const HEBNUM={'א':1,'ב':2,'ג':3,'ד':4,'ה':5,'ו':6,'ז':7,'ח':8,'ט':9,'י':10,'כ':20,'ל':30,'מ':40};

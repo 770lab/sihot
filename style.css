@@ -7,6 +7,7 @@
   --line:#33353A;--accent:#C9A6DB;--accent2:#A9BA7C;--tint:#2A2430;--tint2:#252A20;--focus:#7A5A8C;
 }}
 *{box-sizing:border-box}
+[hidden]{display:none!important}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:"Literata",Georgia,serif;font-size:17px;line-height:1.55}
 a{color:var(--accent)}
