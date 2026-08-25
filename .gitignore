@@ -1,0 +1,5 @@
+scrape.py
+validate.py
+build.py
+__pycache__
+.DS_Store
