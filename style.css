@@ -99,6 +99,7 @@ main{max-width:980px;margin:0 auto;padding:36px 22px 80px}
 .cjump{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 12px;margin:16px 0 20px;padding-bottom:12px;border-bottom:1px solid var(--line);font-family:"IBM Plex Sans",system-ui,sans-serif;font-size:.85rem}
 .cjump span{color:var(--mute)}
 .cjump a{color:var(--accent);text-decoration:none;border-bottom:1px solid transparent}
+.cjump a em{font-style:normal;color:var(--mute);font-size:.9em}
 .cjump a:hover,.cjump a:focus-visible{border-bottom-color:var(--accent)}
 .cnum{font-family:"IBM Plex Sans",system-ui,sans-serif;font-size:.72rem;letter-spacing:.09em;text-transform:uppercase;color:var(--accent);font-weight:600;margin:0 0 6px!important}
 .cours{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:26px 30px;margin-bottom:22px;scroll-margin-top:120px}

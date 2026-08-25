@@ -43,7 +43,7 @@
    "kind": "hossafa",
    "verse": "וְשָׁפְטוּ הָעֵדָה וְהִצִּילוּ הָעֵדָה",
    "theme": "Villes de refuge",
-   "line": "Explication du Séfer Ha'hinoukh qui voit dans les « six villes de refuge » une allusion aux six mitsvot dont l'obligation est permanente ; explication du dire des Sages selon lequel le petit Sanhédrin compte vingt-trois juges, d'après « l'assemblée jugera et l'assemblée sauvera ».",
+   "line": "Deux notes : le Séfer Ha'hinoukh rattache les « six villes de refuge » aux six mitsvot dont l'obligation est constante ; et l'on explique pourquoi le petit Sanhédrin compte vingt-trois juges, d'après « l'assemblée jugera et l'assemblée sauvera ».",
    "resume": "Deux notes : la première explique le Séfer Ha'hinoukh, qui rattache aux « six villes de refuge » les six mitsvot dont l'obligation est constante ; la seconde explique le dire des Sages selon lequel le petit Sanhédrin est composé de vingt-trois juges, appris du verset « l'assemblée jugera et l'assemblée sauvera ».",
    "lesson": ""
   },
@@ -301,7 +301,12 @@
   {
    "title": "« Chaque halte est une Égypte »",
    "angle": "Les quarante-deux voyages comme carte de la vie intérieure ; pour un public de farbrenguen qui connaît l'enseignement du Baal Chem Tov et veut en tirer une hora'a concrète.",
-   "refs": ["Vol. 2 p. 348", "Vol. 23 p. 224", "Vol. 4 p. 1083", "Vol. 18 p. 390"],
+   "refs": [
+    "Vol. 2 p. 348",
+    "Vol. 23 p. 224",
+    "Vol. 4 p. 1083",
+    "Vol. 18 p. 390"
+   ],
    "steps": [
     {
      "t": "0:00",
@@ -310,35 +315,41 @@
      "src": "Bamidbar 33:1-2"
     },
     {
-     "t": "0:45",
+     "t": "0:51",
      "h": "1. Pourquoi « voyages » au pluriel",
      "p": "La si'ha du volume 2 répond avec une image simple : tant que l'on n'est pas arrivé au « Jourdain de Jéricho », chaque niveau est une Égypte par rapport au niveau qui lui est supérieur. Mitsraïm, c'est l'étroitesse, le resserrement. Le lieu que j'ai atteint hier, où je me sentais large, devient étroit dès qu'un niveau plus haut existe. Il y a donc bien plusieurs sorties d'Égypte : chaque montée est une nouvelle sortie. D'où une première hora'a : quel que soit le niveau où l'homme se trouve, il doit être un marcheur et continuer de monter. Et une seconde, tout aussi précieuse : même celui qui se trouve tout en bas peut sortir de son Égypte vers le large, jusqu'au Jourdain, parce que le chemin existe, balisé en quarante-deux étapes.",
      "src": "Likoutei Si'hot vol. 2 p. 348"
     },
     {
-     "t": "2:00",
+     "t": "1:44",
      "h": "2. Marcher sans commune mesure",
      "p": "Le volume 23 reprend la question et la pousse plus loin. Pourquoi le texte compte-t-il des campements en les appelant voyages ? Parce que la Torah veut nous dire ce qu'est un Juif : un « mehalekh », un marcheur, et pas seulement quelqu'un qui progresse pas à pas. La marche dont parle le verset est une marche « sans proportion », un bond hors de la mesure du niveau précédent. Le campement n'est pas le but ; il n'est là que pour permettre le prochain départ. Et la si'ha ajoute une phrase qui touche : chaque étape devient elle-même une Égypte si elle n'est pas suivie d'un « massei » qui en sort. Autrement dit, ce n'est pas la chute qui fait l'étroitesse, c'est l'arrêt. Se contenter de ce qu'on a acquis, c'est déjà retomber dans le resserrement.",
      "src": "Likoutei Si'hot vol. 23 p. 224"
     },
     {
-     "t": "3:15",
+     "t": "2:39",
      "h": "3. Kivrot Hataava : la sainteté des mauvaises étapes",
      "p": "Objection immédiate : parmi les quarante-deux étapes, certaines portent des noms de révolte ou de chute. Comment l'itinéraire de l'âme passerait-il par là ? Le volume 4 répond avec le Baal Chem Tov : les voyages eux-mêmes sont de la sainteté ; c'est seulement le libre arbitre qui en a fait des choses indésirables. Kivrot Hataava, « les tombes du désir », désigne en sainteté le niveau où le désir lui-même est enterré, où la possibilité même de désirer disparaît. Le lieu était saint ; c'est ce que les hommes y ont fait qui a mal tourné. Et le Rabbi applique cela à Bein Hametsarim : sans l'intervention du côté opposé, ces jours auraient été des jours de sainteté, et par la techouva ils le redeviennent, « changés en joie et en allégresse ».",
      "src": "Likoutei Si'hot vol. 4 p. 1083"
     },
     {
-     "t": "4:15",
+     "t": "3:33",
      "h": "Chute — « ici nous avons dormi »",
      "p": "Rachi raconte le roi dont le fils était malade : il l'emmène au loin pour le guérir, et au retour lui montre chaque halte, « ici nous avons dormi, ici nous avons eu froid, ici tu as eu mal à la tête ». Le volume 18 lit dans ces trois mots les trois premiers voyages, et dans le « etc. » de Rachi la vraie maladie, celle que le fils s'est infligée lui-même par ses choix. La nouveauté, c'est le retour : « quand ils revenaient ». Après la techouva, l'homme regarde en arrière et découvre que même ses chutes faisaient partie du chemin vers la guérison. Voilà ce que signifie lire la liste des campements : non pas une géographie, mais la promesse que chaque halte, même la plus sombre, peut devenir un voyage.",
      "src": "Likoutei Si'hot vol. 18 p. 390"
     }
-   ]
+   ],
+   "minutes": 4
   },
   {
    "title": "« Une terre qui tombe en partage »",
    "angle": "Le rapport à la Terre d'Israël selon les si'hot : héritage, effort et don, et la limite comme chemin vers l'infini ; pour un public qui aime les commentaires de Rachi et la pnimiout qu'ils cachent.",
-   "refs": ["Vol. 13 p. 114", "Vol. 13 p. 122", "Vol. 38 p. 122", "Vol. 33 p. 199"],
+   "refs": [
+    "Vol. 13 p. 114",
+    "Vol. 13 p. 122",
+    "Vol. 38 p. 122",
+    "Vol. 33 p. 199"
+   ],
    "steps": [
     {
      "t": "0:00",
@@ -347,35 +358,40 @@
      "src": "Bamidbar 26:54-55 ; 34:2"
     },
     {
-     "t": "0:45",
+     "t": "0:54",
      "h": "1. Héritage, achat, don",
      "p": "La si'ha du volume 13 commence par la Torah, dont on parle tantôt comme d'un héritage, tantôt comme d'un achat, tantôt comme d'un don. Trois niveaux. L'héritage : la Torah appartient à chaque Juif du seul fait qu'il est juif, sans condition. L'achat : la Torah que l'on acquiert à la mesure de son effort, ligne par ligne. Ces deux niveaux tiennent à l'homme, à son être ou à son travail. Le don, lui, est la Torah telle qu'elle dépasse tout rapport avec l'homme, et qui descend d'en haut une fois le service accompli. C'est pourquoi Israël a entendu deux commandements de la bouche de D.ieu et les autres de Moché. La Terre suit le même schéma : on la conquiert et on la partage selon la raison, mais la révélation divine qu'elle porte ne peut être qu'un don, et ce don, c'est le tirage au sort.",
      "src": "Likoutei Si'hot vol. 13 p. 114"
     },
     {
-     "t": "2:00",
+     "t": "1:52",
      "h": "2. « Qui vous échoira » : des frontières pour les mitsvot",
      "p": "Rachi explique que les frontières sont écrites parce que beaucoup de mitsvot ne s'appliquent qu'en Terre d'Israël. Mais pourquoi pas tout simplement pour savoir quoi conquérir ? La seconde si'ha du volume 13 remarque le mot « tipol », « tombera ». Pour la conquête, le verset aurait dit « voici votre héritage selon ses frontières ». « Qui vous échoira » désigne un acte supplémentaire accompli par D.ieu, sans action d'Israël ; le sujet regarde donc le Ciel, et ce sont les mitsvot liées à la Terre. Et le sens profond : la Terre, ce sont les âmes d'Israël, qui « tombent » en ce monde parce que beaucoup de mitsvot en dépendent. C'est par cette chute, où l'amour et la crainte de l'âme sont en état de chute, que l'âme accède au « sort », un service qui dépasse la raison.",
      "src": "Likoutei Si'hot vol. 13 p. 122"
     },
     {
-     "t": "3:15",
+     "t": "2:50",
      "h": "3. Guevoul ou metser : de la limite à l'infini",
      "p": "Le volume 38 remarque un détail que l'on lit sans le voir : le verset dit « guevoul », et Rachi, presque à chaque fois, écrit « metser », un mot rare. Pourquoi ? « Guevoul » peut désigner toute l'étendue entre les limites ; « metser » désigne la ligne exacte. Mais le Rabbi va plus loin, avec le Chela qui relie Massei à Bein Hametsarim : c'est parce que la sainteté a une limite qu'il y a place pour l'exil, et quand la sainteté de la Terre s'étendra au monde entier, l'exil n'aura plus de place. Et d'après le Tséma'h Tsédek sur « depuis l'étroitesse je T'ai appelé », « guevoul » évoque la lumière divine limitée, « metser » la lumière illimitée, à laquelle on n'accède que par l'étroitesse. Les mitsvot ont des limites, et c'est justement par elles qu'on parvient au « large de D.ieu ».",
      "src": "Likoutei Si'hot vol. 38 p. 122"
     },
     {
-     "t": "4:15",
+     "t": "3:50",
      "h": "Chute — une part convenable pour chacun",
      "p": "Reste à savoir qui distribue. Rachi dit que chaque nassi est tuteur de sa tribu et « choisit pour chacun une part convenable ». Le volume 33 montre que ce partage jusqu'à l'individu tient à la nomination du nassi par D.ieu, la même que celle d'Elazar et de Yehochoua : veiller sur chaque personne, pas seulement sur le collectif. Et le Rabbi conclut sur le nassi de notre génération : quand le Rabbi précédent a tracé pour chacun de nous une voie, la diffusion du judaïsme et des sources, ce n'était pas seulement pour le bien de la collectivité. C'est le bien personnel de celui qui s'y engage, sa « part convenable » dans la Terre. La Terre « tombe » d'en haut, mais chacun y reçoit une part taillée pour lui.",
      "src": "Likoutei Si'hot vol. 33 p. 199"
     }
-   ]
+   ],
+   "minutes": 5
   },
   {
    "title": "« La ville de refuge et le Cohen gadol »",
    "angle": "Les lois du meurtrier par erreur et ce qu'elles disent de l'ahavat Israël, de la techouva et de la fidélité à la Torah ; pour un public sensible à la halakha et à ses leçons de vie.",
-   "refs": ["Vol. 33 p. 206", "Vol. 38 p. 127", "Vol. 28 p. 219"],
+   "refs": [
+    "Vol. 33 p. 206",
+    "Vol. 38 p. 127",
+    "Vol. 28 p. 219"
+   ],
    "steps": [
     {
      "t": "0:00",
@@ -384,35 +400,41 @@
      "src": "Bamidbar 35:25-28"
     },
     {
-     "t": "0:45",
+     "t": "0:50",
      "h": "1. Pourquoi Rachi donne deux raisons",
      "p": "Rachi propose deux explications : le Cohen gadol prolonge la vie d'Israël, le meurtrier la raccourcit, « il ne convient pas qu'il soit devant lui » ; ou bien le Cohen gadol aurait dû prier pour qu'un tel accident n'arrive pas de son vivant. Le volume 33 écarte l'idée d'une punition du Cohen gadol : Rachi ne dit pas que le meurtrier priera pour sa mort, « ce ne sont pas les voies véritables de la Torah ». Le second sens veut dire que la mort des justes expie, et que c'est celle du Cohen gadol qui expie ce meurtrier-là. Mais pourquoi une raison ? Parce que le pchat l'exige : si la ville protège d'un vengeur en colère, la colère passe avec le temps. Dans notre paracha, il s'agit d'un statut de tribunal, « il n'a pas de sang », qui ne s'éteint qu'à la mort du Cohen gadol.",
      "src": "Likoutei Si'hot vol. 33 p. 206"
     },
     {
-     "t": "2:00",
+     "t": "1:50",
      "h": "2. La leçon d'ahavat Israël",
      "p": "Le Rabbi tire de là ce qu'il appelle une hora'a merveilleuse. Le Cohen gadol est à l'extrémité la plus haute du peuple ; le meurtrier par erreur à l'extrémité la plus basse. Et pourtant ils dépendent l'un de l'autre. Les deux explications de Rachi soulignent chacune l'ahavat Israël : dans la première, le Cohen gadol vient prolonger les jours de tous, y compris ceux de cet homme. Dans la seconde, il va plus loin encore : il s'implique lui-même pour ceux dont il aurait dû porter la prière, il prie pour eux et sa prière est reçue. Un responsable, dans la Torah, n'est pas quelqu'un qui se tient au-dessus de la faute des autres ; c'est quelqu'un dont la propre vie est engagée dans ce qui leur arrive.",
      "src": "Likoutei Si'hot vol. 33 p. 206"
     },
     {
-     "t": "3:15",
+     "t": "2:41",
      "h": "3. Ne pas sortir, même pour sauver tout Israël",
      "p": "Le Rambam tranche : le meurtrier ne sort jamais de sa ville, « même si tout Israël a besoin de son secours comme de Yoav ben Tserouya ». Mais pikoua'h néfech ne repousse-t-il pas toute la Torah ? Le volume 38 lit le Rambam de près : hors de la ville, cet homme « s'est livré à la mort », il est « un homme mort ». Or aucune obligation ne peut s'imposer à un homme mort, et la loi du sauvetage ne s'applique pas à celui que l'acte de sauvetage tuerait. Puis vient la leçon : la Torah est la ville de refuge du Juif, « les paroles de Torah accueillent », c'est là qu'il vit, comme le poisson dans l'eau de la parabole de Rabbi Akiva. On ne sort pas de la Torah, on ne fait pas de compromis, pour rapprocher les autres : dehors, on ne sauve personne.",
      "src": "Likoutei Si'hot vol. 38 p. 127"
     },
     {
-     "t": "4:15",
+     "t": "3:41",
      "h": "Chute — la chambre du bois recouverte",
      "p": "Et le Cohen gadol lui-même ? Sa chambre au Temple s'appelait « chambre du bois », parce que le bois évoque la longévité, « comme les jours de l'arbre, les jours de Mon peuple », et que le Cohen gadol prolonge la vie. Mais le bois était recouvert. Le volume 28 explique pourquoi : le service de Kippour n'est pas celui des justes, c'est la techouva, qui fait de l'homme une créature nouvelle, « je ne suis plus le même homme ». Le même Cohen gadol qui entre chaque année dans le Saint des Saints est, spirituellement, un Cohen gadol nouveau. Celui dont dépend le meurtrier est donc lui-même un homme de techouva. Le plus haut et le plus bas se rejoignent là : chacun peut renaître, et c'est ce que le Cohen gadol porte pour tous.",
      "src": "Likoutei Si'hot vol. 28 p. 219"
     }
-   ]
+   ],
+   "minutes": 5
   },
   {
    "title": "« Aharon, le deuil et la reconstruction »",
    "angle": "Massei lue au cœur de Bein Hametsarim : la mort d'Aharon, l'unité qu'il incarne, l'étude du Temple et la consolation du Père ; pour un public qui cherche comment vivre ces trois semaines.",
-   "refs": ["Vol. 8 p. 192", "Vol. 23 p. 229", "Vol. 18 p. 411", "Vol. 23 p. 214"],
+   "refs": [
+    "Vol. 8 p. 192",
+    "Vol. 23 p. 229",
+    "Vol. 18 p. 411",
+    "Vol. 23 p. 214"
+   ],
    "steps": [
     {
      "t": "0:00",
@@ -421,30 +443,31 @@
      "src": "Bamidbar 33:38-40"
     },
     {
-     "t": "0:45",
+     "t": "0:52",
      "h": "1. « La mort d'Aharon est elle-même la nouvelle »",
      "p": "Au verset suivant, « le Cananéen entendit », Rachi commente : la mort d'Aharon est elle-même la nouvelle, car les nuées se sont retirées et il crut qu'il avait permission de combattre Israël. Mais Rachi l'a déjà expliqué dans 'Houkat ! Le volume 8 distingue : dans 'Houkat, il s'agit d'Amalek, toujours prêt à nuire, qui n'attend qu'une possibilité ; ici, des autres nations, qui n'attaquent que si elles croient en avoir la permission, et c'est la mort d'Aharon qui le leur fait croire. Pourquoi ce détail figure-t-il ici ? Parce que Massei, lue à la date du décès, rassemble tout ce qui concerne Aharon. D'où une hora'a modeste et concrète : la portion quotidienne du 'Hitat se lit le jour même, pas le lendemain, car chaque jour a son texte.",
      "src": "Likoutei Si'hot vol. 8 p. 192"
     },
     {
-     "t": "2:00",
+     "t": "1:44",
      "h": "2. Cent vingt-trois Halleloukah",
      "p": "Le Yerouchalmi enseigne qu'Israël répond cent vingt-trois fois Halleloukah dans le Hallel, « correspondant aux années d'Aharon ». Quel rapport ? Le volume 23 passe par le Rambam, qui rapporte l'usage des premiers sages : tout le peuple répondait Halleloukah après chaque passage, « et il convient de suivre cet usage ». On l'avait institué pour ceux qui ne savaient pas lire ; mais il a une vertu propre : l'unité. Quand l'un lit et les autres écoutent, chacun reste à sa place ; quand tous répondent Halleloukah, c'est comme si tous avaient lu un seul Hallel. Voilà Aharon, « aimant la paix », pleuré par « toute la maison d'Israël ». Et c'est pourquoi le Rambam place le Hallel dans les lois de 'Hanouka, qui se terminent par « toute la Torah a été donnée pour faire la paix ».",
      "src": "Likoutei Si'hot vol. 23 p. 229"
     },
     {
-     "t": "3:15",
+     "t": "2:40",
      "h": "3. Étudier le Temple, c'est le bâtir",
      "p": "Le jour de la mort d'un juste est un jour de deuil, mais aussi un temps d'éveil, jusqu'à ce que « comme sa descendance vit, lui aussi vit ». Le volume 18 applique cela à Bein Hametsarim : celui qui étudie la forme du Temple, « Je le considère comme s'il s'occupait de sa construction ». Et le Rabbi insiste : ce n'est pas seulement « comme si ». « Ils Me feront un sanctuaire » est une mitsva éternelle ; quand on ne peut pas bâtir, l'étude fait partie de la mitsva elle-même. C'est pourquoi le Rambam ouvre son Séfer Avoda par « demandez la paix de Jérusalem » plutôt que par le verset de la guémara sur le souvenir de Sion : le souvenir n'est qu'un souvenir, l'étude est une participation à la construction, la part de l'homme dans un Temple dont une part descendra d'en haut.",
      "src": "Likoutei Si'hot vol. 18 p. 411"
     },
     {
-     "t": "4:15",
+     "t": "3:40",
      "h": "Chute — consoler le Père",
      "p": "Le mois qui s'ouvre s'appelle Mena'hem Av : Israël console D.ieu. N'est-ce pas réservé à quelques élus, capables d'oublier leur propre peine pour ne penser qu'à la Sienne ? Le volume 23 répond par le Tanya : le choix de D.ieu en Israël, enraciné dans l'Essence, porte sur le corps juif. Les affaires du corps sont donc liées à l'Essence, et quand un Juif prie pour son pain, il prie en vérité pour la « Tête ». De même, parce qu'Il est Père, ce qui touche le fils Le touche : consoler le Père inclut consoler les fils. Et « la force du fils dépasse celle du père » : nous, en bas, dans nos corps, sommes reliés à l'Essence et pouvons Le consoler. Le deuil d'Aharon, de Bein Hametsarim, devient alors une mission : chacun de nous peut consoler le Père.",
      "src": "Likoutei Si'hot vol. 23 p. 214"
     }
-   ]
+   ],
+   "minutes": 5
   }
  ]
 }

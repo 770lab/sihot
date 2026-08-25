@@ -8,7 +8,24 @@ for s in fr:
     else: print('INVALID',s,r.stdout.replace('\n',' | ')[:200])
 json.dump(ok,open('data/fr/index.json','w'))
 
-# 2) empreinte de contenu -> cache-bust (sinon un visiteur déjà venu garde l'ancien index)
+# 2) minutage des chiourim recalculé depuis le texte réel (150 mots/minute)
+WPM=150
+def stamp(path):
+    d=json.load(open(path)); ch=False
+    for c in d.get('courses',[]):
+        run=0
+        for s in c['steps']:
+            t=f"{int(run//60)}:{int(run%60):02d}"
+            if s.get('t')!=t: s['t']=t; ch=True
+            run+=len(s['p'].split())/WPM*60
+        mins=max(1,round(run/60))
+        if c.get('minutes')!=mins: c['minutes']=mins; ch=True
+    if ch: json.dump(d,open(path,'w'),ensure_ascii=False,indent=1)
+    return ch
+n=sum(stamp(f'data/fr/{s}.json') for s in ok)
+if n: print(f"minutage recalculé sur {n} parachot")
+
+# 3) empreinte de contenu -> cache-bust (sinon un visiteur déjà venu garde l'ancien index)
 h=hashlib.sha1()
 for p in ['app.js','style.css','parshiot.js','data/index.json','data/fr/index.json']:
     h.update(open(p,'rb').read())

@@ -164,7 +164,7 @@
    "kind": "sicha",
    "verse": "מֵאֵת הַמִּדְיָנִים לְכָל מַטּוֹת יִשְׂרָאֵל תִּשְׁלְחוּ לַצָּבָא",
    "theme": "Lévi et Midian",
-   "line": "Pour le Rambam, Midian avait aussi un statut de conquête ; pour Rabbi Akiva, Lévi ne fait pas la guerre seulement pour Erets Israël, mais les guerres hors du pays, qui élargissent la renommée du Roi, comme Midian, vengeance de D.ieu, reviennent à l'armée de D.ieu.",
+   "line": "Pour le Rambam, Midian avait aussi un aspect de conquête ; et selon Rabbi Akiva, Lévi prenait part aux guerres hors du pays, comme celle de Midian, vengeance de D.ieu, car il est l'armée de D.ieu.",
    "resume": "La guerre de Midian fut une vengeance, non une conquête. Cela répond au Raavad : le Rambam écrit que Lévi n'a pas part au butin seulement dans le pays promis aux Patriarches, mais que dans les autres pays Cohanim et Léviim sont comme tout Israël ; le Raavad objecte qu'au butin de Midian ils n'ont reçu que la terouma. Mais on ne peut objecter depuis Midian, guerre de vengeance et non de conquête. Pourtant, le Rambam tranche que l'on assiège une ville sur trois côtés d'après « ils firent campagne contre Midian », signe qu'il range Midian parmi les guerres ordinaires : pour lui, Midian avait aussi un aspect de conquête. Selon Rabbi Akiva, Lévi était inclus dans « de toutes les tribus d'Israël vous enverrez à l'armée ». Lévi, mis à part pour servir D.ieu, ne fait pas la guerre pour le pays donné à Israël, dont il n'a pas de part ; mais les guerres hors du pays, qui élargissent la frontière et la renommée du Roi, comme Midian, vengeance de D.ieu, reviennent à Lévi, armée de D.ieu. Enseignement : même celui dont l'esprit le pousse à être « de Lévi » ne peut dire qu'il n'a rien à voir avec le monde ; il doit vaincre ce qui s'oppose à D.ieu, et concrètement abolir la haine gratuite et faire régner l'amour et l'unité d'Israël.",
    "lesson": "Même celui qui se consacre entièrement à D.ieu doit sortir combattre pour Lui : supprimer la haine gratuite et faire régner l'unité d'Israël."
   },
@@ -208,7 +208,7 @@
    "kind": "sicha",
    "verse": "כֹּל הֹרֵג נֶפֶשׁ וְכֹל נֹגֵעַ בֶּחָלָל",
    "theme": "Impureté par l'arme",
-   "line": "Pourquoi « quiconque a tué une personne » n'est-il pas dit dans 'Houkat comme les autres lois d'impureté ? Rachi explique qu'il n'y a pas ici de loi nouvelle : c'est un cas des lois du contact énoncées dans 'Houkat, appliqué aux ustensiles qui touchent le mort.",
+   "line": "Pourquoi « quiconque a tué une personne » n'est-il pas dit dans 'Houkat ? Rachi répond qu'il n'y a pas là de loi nouvelle : c'est un cas des lois du contact, appliqué à l'ustensile qui touche le mort.",
    "resume": "Rachi cite Rabbi Méir : le verset parle de celui qui tue avec un objet susceptible d'impureté, et enseigne que l'ustensile rend l'homme impur, relié au mort, comme s'il touchait le mort lui-même ; mais s'il a lancé une flèche, non, car « quiconque touche le tué » assimile tuer à toucher. Or le Sifri tire cela de « tué par l'épée » ; pourquoi Rachi choisit-il une autre version, et ajoute-t-il « le verset t'enseigne » ? Réponse : selon le pchat, les ordres de cette section ont déjà été dits dans 'Houkat et sont répétés après Midian parce qu'ils devenaient concrets. Pourquoi alors « quiconque a tué » n'est-il pas dans 'Houkat ? Rachi répond qu'il n'y a pas ici de loi nouvelle : c'est un cas des lois du contact, appliqué à tout ustensile qui touche le mort. « Le verset t'enseigne » précise que la nouveauté ne porte pas sur l'ustensile, qui serait comme le mort, mais sur l'homme : c'est comme s'il touchait le mort. D'où l'hypothèse de la flèche, rejetée : il faut un contact réel. Rachi nomme Rabbi Méir, qui juge le garmi et distingue ce qui vient de la force de l'homme sans interruption de ce qui vient avec interruption de temps ou de lieu. Vin de la Torah : de même, s'attacher aux sages, c'est s'attacher à la Chekhina, et dans le bien, même un lien infime aux sages vaut attachement réel.",
    "lesson": "S'attacher aux sages, même par un lien ténu, c'est s'attacher réellement à la Chekhina : la mesure du bien est plus large que celle du mal."
   },
@@ -312,7 +312,12 @@
   {
    "title": "« Le vœu n'est pas le but »",
    "angle": "Pourquoi la paracha des vœux parle surtout de leur annulation : une lecture 'hassidique de Nedarim pour un farbrenguen de Chabbat Matot, public familier de la halakha.",
-   "refs": ["Vol. 13 p. 105", "Vol. 33 p. 186", "Vol. 4 p. 1076", "Vol. 33 p. 194"],
+   "refs": [
+    "Vol. 13 p. 105",
+    "Vol. 33 p. 186",
+    "Vol. 4 p. 1076",
+    "Vol. 33 p. 194"
+   ],
    "steps": [
     {
      "t": "0:00",
@@ -321,41 +326,47 @@
      "src": "Bamidbar 30:2-17"
     },
     {
-     "t": "0:45",
+     "t": "0:53",
      "h": "1. La nouveauté de la paracha, c'est l'annulation",
      "p": "Le Rabbi remarque que l'obligation de tenir un vœu était déjà connue : plusieurs récits de la Torah montrent que les enfants d'Israël savaient qu'une parole engage. Donc « tout ce qui sort de sa bouche, il le fera » n'est qu'un préambule. La vraie nouveauté de Matot, c'est que le père et le mari peuvent annuler. C'est pourquoi Moché s'adresse aux chefs des tribus : Rachi y voit l'allusion à l'annulation par un tribunal, un expert ou trois personnes ordinaires. Le cœur de la paracha, ce n'est pas le vœu, c'est sa levée. Et ce n'est pas un hasard si cette loi est donnée juste avant l'entrée en Erets Israël, à la sortie du désert.",
      "src": "Likoutei Si'hot vol. 13 p. 105"
     },
     {
-     "t": "1:45",
+     "t": "1:39",
      "h": "2. Trois degrés dans le Rambam",
      "p": "Pourquoi fait-on un vœu ? Le Rabbi lit trois halakhot du Rambam comme trois étages. D'abord : « celui qui fait des vœux pour affermir ses dispositions est zélé et louable ». C'est le niveau de celui qui sent que le superflu du monde peut le faire tomber, et qui a besoin d'une barrière. Ensuite : « qu'on ne multiplie pas les vœux, mais qu'on s'abstienne sans vœu ». On n'a plus besoin de se lier, mais on se garde encore. Enfin, dans les lois des dispositions : « qu'on ne s'interdise que ce que la Torah a interdit ». Là, le monde ne menace plus ; au contraire, on doit s'en servir et l'élever. À l'homme droit on dit : « ce que la Torah a interdit te suffit ».",
      "src": "Likoutei Si'hot vol. 33 p. 186"
     },
     {
-     "t": "2:45",
+     "t": "2:32",
      "h": "3. Le mari annule, le sage délie",
      "p": "Ces trois niveaux, le Rabbi les retrouve dans les deux façons de lever un vœu. Le mari « annule » : il fait que l'homme n'ait plus besoin du vœu, mais celui-ci doit encore se garder du monde. Le sage « délie » : il élève l'homme jusqu'au niveau où il peut s'occuper du monde pour l'élever. Dans une autre si'ha, le Rabbi le formule en termes de séfirot : le vœu relève de Bina, où la réalité du monde a une place et peut peser ; le sage qui délie relève de 'Hokhma, pour laquelle le monde ne pèse rien. Et dans le pchat, monde de l'action, même le sage ne fait qu'annuler, car « la levée des vœux flotte en l'air » et n'atteint pas encore l'intériorité de l'homme.",
      "src": "Likoutei Si'hot vol. 33 p. 186 ; vol. 4 p. 1076"
     },
     {
-     "t": "3:45",
+     "t": "3:24",
      "h": "4. Le désert et le pays",
      "p": "Voilà pourquoi la loi de l'annulation arrive à la veille de l'entrée en Erets Israël. Au désert, Israël vivait séparé du monde, nourri de manne. En entrant dans le pays commence l'ordre du raffinement : labourer, commercer, manger, et faire de tout cela une demeure pour D.ieu. Il fallait donc, à ce moment précis, la loi qui libère du vœu. Mais le Rabbi ajoute une nuance : « il ne profanera pas sa parole » est dit lui aussi à ce moment. L'homme qui entre dans le monde doit veiller à ce que ses affaires ne deviennent pas « profanes », 'houlin ; il doit y attirer la sainteté. C'est précisément la raison pour laquelle Matot est lue pendant Bein Hametsarim : ces jours sont faits pour transformer l'amer en doux.",
      "src": "Likoutei Si'hot vol. 13 p. 105 ; vol. 33 p. 194"
     },
     {
-     "t": "4:30",
+     "t": "4:16",
      "h": "Chute — quel est mon étage ?",
      "p": "Chacun peut se demander à quel étage il se trouve. Il y a des moments où l'on doit se dire honnêtement : ici, j'ai besoin d'une barrière, d'un vœu, d'une décision ferme, parce que sinon je tombe. C'est louable. Mais ce n'est pas le but. Le but, c'est le jour où le sage, le Rabbi, nous élève au point où l'on prend le monde, l'argent, la table, le travail, et où l'on en fait de la lumière. La paracha ne s'appelle pas « Nedarim », elle s'appelle « Matot », et elle parle de l'annulation. Le vœu est une échelle, pas une maison.",
      "src": "Likoutei Si'hot vol. 13 p. 105"
     }
-   ]
+   ],
+   "minutes": 5
   },
   {
    "title": "« La vengeance de D.ieu »",
    "angle": "La guerre de Midian comme modèle du combat spirituel : pourquoi elle n'est pas une conquête, ce que Lévi y fait, et pourquoi la Torah compte les moutons ; pour un public qui aime la halakha et les leçons de vie.",
-   "refs": ["Vol. 23 p. 206", "Vol. 18 p. 357", "Vol. 13 p. 110", "Vol. 18 p. 363"],
+   "refs": [
+    "Vol. 23 p. 206",
+    "Vol. 18 p. 357",
+    "Vol. 13 p. 110",
+    "Vol. 18 p. 363"
+   ],
    "steps": [
     {
      "t": "0:00",
@@ -364,41 +375,46 @@
      "src": "Bamidbar 31:2-3 ; Likoutei Si'hot vol. 18 p. 357"
     },
     {
-     "t": "0:50",
+     "t": "0:39",
      "h": "1. L'arme de Bilam",
      "p": "Rachi rapporte ici, et non dans Balak, le long discours de Bilam aux rois : « même en rassemblant toutes les foules du monde, vous ne pourrez rien ; êtes-vous plus nombreux que les six cents chars d'élite d'Égypte ? Leur D.ieu hait la débauche. » Le Rabbi explique : dans Balak il y a un conseil ; ici il y a « la parole de Bilam », un discours développé. Son contenu : Israël est invincible par les armes et invincible même par la sorcellerie ; la seule façon de le vaincre, c'est de le faire fauter. Et Rachi ajoute « comme dans le Sifri » : comment Israël a-t-il pu tomber ? Rassasié du butin de Si'hon et Og, « Yechouroun s'engraissa et rua ». L'ennemi ne gagne jamais de l'extérieur.",
      "src": "Likoutei Si'hot vol. 18 p. 357"
     },
     {
-     "t": "1:50",
+     "t": "1:32",
      "h": "2. Vengeance, pas conquête",
      "p": "Le Rambam écrit que Lévi n'a pas de part au butin seulement dans le pays promis aux Patriarches ; ailleurs, Cohanim et Léviim sont comme tout Israël. Le Raavad objecte : à Midian, Lévi n'a reçu que la terouma ! Le Rabbi répond : Midian n'est pas une guerre comme les autres, c'est une vengeance, pas une conquête. Et pourtant le Rambam apprend de Midian qu'on assiège une ville sur trois côtés seulement, comme dans toute guerre. Donc pour le Rambam, Midian avait aussi un aspect de conquête. Et selon Rabbi Akiva, Lévi était bien compris dans « de toutes les tribus vous enverrez à l'armée ». Lévi, mis à part pour servir D.ieu, ne combat pas pour la terre ; mais les guerres qui élargissent la renommée du Roi, c'est l'affaire de « l'armée de D.ieu ».",
      "src": "Likoutei Si'hot vol. 23 p. 206"
     },
     {
-     "t": "2:50",
+     "t": "2:27",
      "h": "3. Le Lévi qui ne peut pas rester chez lui",
      "p": "Voici la leçon que le Rabbi en tire. Il y a des Juifs dont « l'esprit les pousse » à être de Lévi : tout à la Torah, tout au service. Ils pourraient dire : le monde, ce n'est pas mon affaire. Le Rabbi dit non. Même le Lévi doit sortir pour « la vengeance de D.ieu contre Midian » : vaincre et annuler ce qui s'oppose à D.ieu. Et dans le service concret, qu'est-ce que Midian ? Le Rabbi le dit clairement : c'est la haine gratuite entre Juifs. Combattre Midian, c'est faire régner l'amour et l'unité d'Israël. Un homme de Torah qui laisse la discorde s'installer autour de lui a laissé Midian vivre.",
      "src": "Likoutei Si'hot vol. 23 p. 206"
     },
     {
-     "t": "3:45",
+     "t": "3:13",
      "h": "4. Pourquoi compter les moutons",
      "p": "Après la guerre, la Torah détaille chaque espèce du butin, la moitié des combattants, la taxe pour les Cohanim, la moitié d'Israël. Le Rabbi demande : à quoi bon ? Réponse : si la Torah n'avait donné que l'ordre de partager en deux et de prélever un sur cinq cents, on aurait demandé quoi faire du reste, car il est très rare qu'un nombre se divise ainsi. Le compte prouve que c'était exact. Et la Torah souligne un miracle discret : pendant tout le comptage, aucune bête ne mourut. D.ieu avait donc agencé, bien avant la guerre, que Midian possède exactement ce nombre. Enseignement : D.ieu prépare longtemps à l'avance les circonstances pour qu'un Juif puisse accomplir sa mitsva. Même les ustensiles pris à Midian, le Rabbi le montre chez Rachi, sont rendus aptes et immergés pour entrer dans la sainteté.",
      "src": "Likoutei Si'hot vol. 13 p. 110 ; vol. 18 p. 363"
     },
     {
-     "t": "4:30",
+     "t": "4:10",
      "h": "Chute — le butin transformé",
      "p": "Retenons les deux visages. Midian attaque de l'intérieur, par la faute et par l'abondance qui fait « ruer ». On ne le vainc pas en se retirant du monde, mais en sortant au combat, même quand on est de Lévi, et le combat s'appelle amour d'Israël. Et quand on gagne, on ne détruit pas le butin : on le compte, on le purifie, on en prélève une part pour D.ieu. La vengeance de D.ieu, c'est cela : que ce qui servait contre Lui finisse par Le servir. Et le compte tombe juste, parce qu'Il l'a préparé.",
      "src": "Likoutei Si'hot vol. 13 p. 110"
     }
-   ]
+   ],
+   "minutes": 5
   },
   {
    "title": "« De l'autre côté du Jourdain »",
    "angle": "Gad, Réouven, Menaché et Yaïr : faut-il vivre à l'écart ou au milieu du monde ? Un cours sur la vocation du Juif dans la vie active, pour des parents et des professionnels.",
-   "refs": ["Vol. 8 p. 186", "Vol. 28 p. 210", "Vol. 38 p. 117"],
+   "refs": [
+    "Vol. 8 p. 186",
+    "Vol. 28 p. 210",
+    "Vol. 38 p. 117"
+   ],
    "steps": [
     {
      "t": "0:00",
@@ -407,41 +423,47 @@
      "src": "Bamidbar 32:1-27"
     },
     {
-     "t": "0:50",
+     "t": "0:48",
      "h": "1. Vivre comme les Patriarches",
      "p": "Le Rabbi explique : Gad et Réouven étaient éleveurs parce qu'ils voulaient vivre dans l'isolement, comme les Patriarches, bergers dans le désert, loin de l'agitation, tout entiers à D.ieu. Un idéal magnifique... avant le don de la Torah. Mais depuis le Sinaï, la Torah a été donnée ici-bas, justement pour faire une demeure à D.ieu dans les mondes inférieurs. Vouloir rester dehors, dans la pureté de la solitude, c'est exactement la faute des explorateurs qui préféraient le désert à la terre. D'où « ainsi ont fait vos pères ». La sainteté n'est plus dans la fuite, elle est dans la descente.",
      "src": "Likoutei Si'hot vol. 8 p. 186"
     },
     {
-     "t": "1:45",
+     "t": "1:28",
      "h": "2. Issakhar et Zévouloun",
      "p": "Pourquoi Moché accepte-t-il alors ? Parce qu'en Israël il y a deux types : Issakhar et Zévouloun, maîtres de Torah et maîtres de bonnes actions. Dès que Gad et Réouven disent « nous nous armerons », qu'ils se lient au reste du peuple et au combat pour la terre, ils deviennent comme ceux qui siègent sous la tente, dont le service est « d'éclairer » la demeure par l'étude. C'est légitime. Et pourtant, dit le Rabbi, en finesse, cela reste un léger écart par rapport à l'intention profonde, d'où « héritage précipité ». Les notes de la si'ha rappellent Ben Azzaï, dont la voie était selon la Torah mais pouvait mener à « regarder et être frappé », face à Rabbi Akiva, qui rentre chez lui et « entre en paix et sort en paix ».",
      "src": "Likoutei Si'hot vol. 8 p. 186"
     },
     {
-     "t": "2:45",
+     "t": "2:23",
      "h": "3. Menaché, celui qui n'oublie pas",
      "p": "Il y a pourtant une tribu qui reçoit la Transjordanie sans l'avoir demandée : la demi-tribu de Menaché. Pourquoi ? Le Rabbi répond : tout passe par Moché, et puisque dans le futur « D.ieu élargira ta frontière », le commencement de cet élargissement est venu par Moché donnant à Menaché une part au-delà du Jourdain. Chez Gad et Réouven il y avait un renoncement à Erets Israël ; chez Menaché, une part de chaque côté, aucun renoncement, un avant-goût du futur. Et pourquoi Menaché ? Parce que son nom dit « nachani » : Yossef l'a nommé ainsi là où tout poussait à oublier la maison de son père, et « nachani » signifie bondir hors de l'oubli. Seul celui qui sait se souvenir peut habiter de l'autre côté du Jourdain de la bonne manière.",
      "src": "Likoutei Si'hot vol. 28 p. 210"
     },
     {
-     "t": "3:45",
+     "t": "3:17",
      "h": "4. Yaïr et ses villages",
      "p": "La paracha se termine avec Yaïr fils de Menaché, qui prend des villages et les appelle « 'Havot Yaïr ». Rachi : il n'avait pas de fils, et il les nomma ainsi en souvenir. Le Rabbi demande : tout le monde nomme sa ville de son nom, pourquoi le dire ? Justement : si la Torah le raconte, c'est qu'il y a une nouveauté, l'absence de fils ; et il nomme des villages, « filles » de la ville, pour le rappeler. Puis le vin de la Torah : ils ont changé les noms idolâtres en noms de sainteté, 'havot, la vie, et Yaïr, la lumière. Et pourquoi des villages ? Parce que « le villageois qui voit le roi » s'émeut plus que le citadin : celui qui raffine ce qui est hors des murs de la sainteté a un enthousiasme que celui qui vit toujours dedans ne connaît pas.",
      "src": "Likoutei Si'hot vol. 38 p. 117"
     },
     {
-     "t": "4:30",
+     "t": "4:18",
      "h": "Chute — de quel côté es-tu ?",
      "p": "Beaucoup d'entre nous vivent « de l'autre côté du Jourdain » : dans le commerce, le bureau, la ville. La paracha ne condamne pas cette vie ; elle en fixe les conditions. Ne pas y aller pour fuir, comme des bergers en quête de solitude. Y aller en restant armé, lié aux frères et à la terre. Y aller comme Menaché, en n'oubliant jamais la maison du père. Et alors, comme Yaïr, on donne aux villages des noms de vie et de lumière, et l'on goûte une joie que même le citadin de la sainteté ne connaît pas.",
      "src": "Likoutei Si'hot vol. 28 p. 210 ; vol. 38 p. 117"
     }
-   ]
+   ],
+   "minutes": 5
   },
   {
    "title": "« Le bâton d'amandier »",
    "angle": "Matot lue pendant Bein Hametsarim : pourquoi l'exil est le temps de la force et comment on console un Père ; pour un farbrenguen des Trois Semaines ou du Chabbat Mevarkhim Mena'hem Av.",
-   "refs": ["Vol. 18 p. 378", "Vol. 33 p. 194", "Vol. 2 p. 348", "Vol. 23 p. 214"],
+   "refs": [
+    "Vol. 18 p. 378",
+    "Vol. 33 p. 194",
+    "Vol. 2 p. 348",
+    "Vol. 23 p. 214"
+   ],
    "steps": [
     {
      "t": "0:00",
@@ -450,36 +472,37 @@
      "src": "Likoutei Si'hot vol. 18 p. 378"
     },
     {
-     "t": "0:45",
+     "t": "0:39",
      "h": "1. L'âme descendue",
      "p": "Le Rabbi explique : le chévet, c'est l'âme telle qu'elle est en haut, reliée à sa source. Descendue ici-bas, dans un corps, dans un monde qui cache D.ieu, elle devient maté : son lien à la divinité ne se voit plus. Le but, c'est « Massei », les voyages : par la descente, l'âme monte plus haut qu'elle n'était avant. Matot dit la descente, Massei la montée. Mais regardez de plus près : dans le bâton même il y a une montée. L'âme devenue bâton a besoin d'une fermeté particulière pour tenir son service, et par cette fermeté se révèle sa racine, l'« eitan », la force. La dureté de l'exil fait sortir de nous une force que la branche verte ne connaissait pas.",
      "src": "Likoutei Si'hot vol. 18 p. 378"
     },
     {
-     "t": "1:45",
+     "t": "1:28",
      "h": "2. Vingt et un jours d'amandes",
      "p": "Jérémie voit « un bâton d'amandier ». Les Sages y lisent Bein Hametsarim : l'amande met vingt et un jours à mûrir, comme du 17 Tamouz au 9 Av. Le Rabbi ajoute que ce n'est pas seulement le nombre. Les grandes amandes sont amères d'abord et deviennent douces ; les petites, douces puis amères, s'appellent louzim. Ces jours-là sont faits pour devenir doux, « pour la joie et l'allégresse ». Et Jérémie voit un bâton, pas une branche : le chévet relié à sa source, c'est le temps du Temple ; le maté séparé, c'est l'exil. Et c'est précisément dans le bâton qu'est la force de retourner l'obscurité en lumière. Toute Matot le dit : le vœu qu'on délie, le butin de Midian dont on prélève une terouma, les villes idolâtres que Gad et Réouven renomment.",
      "src": "Likoutei Si'hot vol. 33 p. 194"
     },
     {
-     "t": "2:45",
+     "t": "2:23",
      "h": "3. Chaque étape est une Égypte",
      "p": "« Voici les voyages des enfants d'Israël qui sont sortis d'Égypte. » Pourquoi « voyages » au pluriel, alors qu'un seul les a fait sortir ? Le Rabbi répond : jusqu'au « Jourdain de Jéricho », chaque niveau est une Égypte, une étroitesse, par rapport au niveau au-dessus. Deux leçons pour les Trois Semaines. Où que l'on soit, on doit rester un marcheur et continuer à monter. Et celui qui se trouve tout en bas peut sortir de son Égypte personnelle vers le large, jusqu'au Jourdain, par quarante-deux étapes. Bein Hametsarim, littéralement « entre les étroitesses », c'est le nom même de ce voyage.",
      "src": "Likoutei Si'hot vol. 2 p. 348"
     },
     {
-     "t": "3:40",
+     "t": "3:04",
      "h": "4. Consoler le Père",
      "p": "Ce Chabbat, souvent, on bénit le mois de « Mena'hem Av » : celui qui console le Père. Israël console D.ieu ? N'est-ce pas réservé à quelques âmes d'exception, qui ne sentent pas leur propre manque ? Le Rabbi répond par la prière : selon le Maguid, on ne prie que « dans la gravité de la tête », pour le manque de D.ieu. Alors même quand je demande la santé, la parnassa, il y a là-dedans une demande pour la « Tête ». Car le Tanya enseigne que D.ieu a choisi Israël précisément dans le corps, et le corps tient à l'Essence. Mes besoins de corps sont Ses affaires de Père. Et comme « la force du fils dépasse celle du père », venant de l'essence du père, le fils, en bas, dans son corps, peut consoler le Père, niveau des révélations.",
      "src": "Likoutei Si'hot vol. 23 p. 214"
     },
     {
-     "t": "4:30",
+     "t": "4:02",
      "h": "Chute — ce que fait un bâton",
      "p": "Un bâton, on s'appuie dessus, on marche avec, et on frappe le rocher pour en faire jaillir de l'eau. Pendant ces trois semaines, nous sommes des matot : coupés en apparence, mais durs, fermes, capables de marcher d'Égypte en Égypte jusqu'au Jourdain. L'amande est amère aujourd'hui ; elle est déjà en train de devenir douce. Et chaque fois qu'un Juif prie pour son pain en pensant à son Père, il console le Père. Que ce soit la dernière année où l'on ait besoin de le faire.",
      "src": "Likoutei Si'hot vol. 33 p. 194 ; vol. 23 p. 214"
     }
-   ]
+   ],
+   "minutes": 5
   }
  ]
 }

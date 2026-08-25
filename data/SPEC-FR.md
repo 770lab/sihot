@@ -37,7 +37,8 @@ Sortie : `data/fr/<slug>.json` STRICTEMENT ce schéma (JSON valide, UTF-8, rien 
 }
 ```
 - `entries` : UNE entrée par entrée HE, même ordre, même `sid`. Ne rien omettre.
-- `courses` : EXACTEMENT 4 cours de 5 minutes (≈650 mots chacun), sur 4 angles différents, chacun s'appuyant sur 2-4 si'hot réelles de la liste (refs exactes). Le 1er = l'angle le plus fort/dominant de la paracha.
+- `courses` : EXACTEMENT 4 cours de 5 minutes, sur 4 angles différents, chacun s'appuyant sur 2-4 si'hot réelles de la liste (refs exactes, reprises TELLES QUELLES du champ `ref` des entrées). Le 1er = l'angle le plus fort/dominant de la paracha.
+- **Durée réelle** : un chiour de 5 minutes dit à voix haute fait **650 à 780 mots** (≈145 mots/minute). La somme des champs `p` d'un cours doit tomber dans cette fourchette — en dessous de 620 mots le cours ne tient pas ses 5 minutes et sera refusé. Écris donc des étapes pleines (110-160 mots chacune), pas des notes.
 
 Règles de style (impératives) :
 - Français soigné, accents corrects. Public : francophones 'Habad/traditionalistes, niveau farbrenguen.

@@ -3,7 +3,8 @@
  "fr": "Eikev",
  "intro": "Eikev poursuit le second discours de Moché : la récompense « au talon » des mitsvot, la manne, les Tables brisées et refaites, le second paragraphe du Chema, la mezouza, Birkat Hamazon et la pluie de la Terre ; les si'hot y lisent surtout le service d'Israël au temps du talon — l'exil et les « talons de Machia'h » — où l'on avance avec ses propres forces, dans les petites mitsvot comme dans le geste qu'on achève.",
  "entries": [
-  {"sid": "likkut_sicha_2_371",
+  {
+   "sid": "likkut_sicha_2_371",
    "ref": "Vol. 2 p. 371",
    "suffix": "Eikev",
    "kind": "sicha",
@@ -11,8 +12,10 @@
    "theme": "Exil et désert",
    "line": "Connaître la maladie est la moitié de la guérison et mène à l'autre moitié ; la descente en exil commence au « grand désert » : croire que le désert est plus grand que soi.",
    "resume": "Eikev appartient aux sept semaines de consolation. Or connaître la maladie est déjà la moitié de la guérison, et cela conduit l'homme à trouver l'autre moitié. La maladie, c'est l'exil, et notre paracha en décrit les étapes. Le désert « où nul homme n'habite » désigne l'exil. La descente commence au « grand désert » : l'homme pense que le désert est plus grand que lui, il ne ressent plus la grandeur d'Israël, « Tu nous as choisis parmi tous les peuples ». Plus bas, « le grand et terrible désert » : même dans ses quatre coudées, à la synagogue et à la maison d'étude, il a peur du désert. De là on arrive à « serpent, saraf, scorpion et soif sans eau ». Le serpent, c'est la chaleur pour les choses de ce monde — pas encore le plus bas, car cette chaleur peut être retournée vers la sainteté. Le saraf, c'est la froideur en toute chose. Et « la soif sans eau » : même quand un éveil vient d'en haut, l'homme ne sent pas que sa soif est une soif d'eau — « il n'y a d'eau que la Torah ».",
-   "lesson": "Diagnostiquer honnêtement où l'on en est dans le désert de l'exil, c'est déjà la moitié du chemin vers la guérison ; la chaleur même de ce monde peut être retournée vers la sainteté."},
-  {"sid": "likkut_sicha_4_1098",
+   "lesson": "Diagnostiquer honnêtement où l'on en est dans le désert de l'exil, c'est déjà la moitié du chemin vers la guérison ; la chaleur même de ce monde peut être retournée vers la sainteté."
+  },
+  {
+   "sid": "likkut_sicha_4_1098",
    "ref": "Vol. 4 p. 1098",
    "suffix": "Eikev",
    "kind": "sicha",
@@ -20,8 +23,10 @@
    "theme": "La manne",
    "line": "Le pain du ciel, c'est la dimension intérieure de la Torah, qui est infinie ; c'est précisément pour cela que l'étude rend l'homme plus « affamé » : il ressent l'illimité de la Torah.",
    "resume": "La manne réunissait pauvreté et richesse. D'un côté on y goûtait toutes les saveurs du monde ; de l'autre, « Il t'a affligé et affamé et t'a nourri de la manne » : elle laissait une faim, faute de « pain dans le panier ». Ces deux aspects sont liés : justement parce qu'elle n'était pas définie matériellement, qu'elle n'avait pas l'apparence d'un aliment précis, elle pouvait être infinie et contenir toutes les saveurs. Le pain du ciel ressemble à la Torah en général et à sa dimension intérieure en particulier, qui sont infinies ; c'est pourquoi l'étude rend l'homme plus affamé, puisqu'il ressent l'illimité de la Torah. Le mauvais penchant peut alors plaider : je ne veux pas étudier, la Torah étant sans limite, je n'en atteindrai jamais le bout, elle ne fait que creuser la faim — « notre âme est dégoûtée de ce pain misérable ». La vérité est que l'être du Juif est spirituel ; c'est précisément par le pain du ciel qu'il devient un récipient vide capable de contenir le spirituel et le matériel.",
-   "lesson": "Ne pas fuir la « faim » que laisse l'étude de la 'hassidout : c'est le signe qu'on touche à l'infini, et c'est elle qui fait de nous un récipient."},
-  {"sid": "likkut_sicha_4_1335",
+   "lesson": "Ne pas fuir la « faim » que laisse l'étude de la 'hassidout : c'est le signe qu'on touche à l'infini, et c'est elle qui fait de nous un récipient."
+  },
+  {
+   "sid": "likkut_sicha_4_1335",
    "ref": "Vol. 4 p. 1335",
    "suffix": "Hossafot",
    "kind": "hossafa",
@@ -29,8 +34,10 @@
    "theme": "Mitsvot légères",
    "line": "Prudence dans les mitsvot que l'homme foule du talon ; accorder « vous les lierez » avant « vous les enseignerez » (second paragraphe, l'action prime, temps futur) avec les Sages : dans ce paragraphe on ne fait pas la volonté de D.ieu.",
    "resume": "Deux extraits. Le premier porte sur la vigilance dans les mitsvot que l'homme piétine de son talon. Le second concilie deux enseignements : d'un côté, dans le second paragraphe du Chema, « vous les lierez » précède « vous les enseignerez », ce qui renvoie au temps futur où « l'action est plus grande » ; de l'autre, les Sages disent que ce second paragraphe décrit ceux qui ne font pas la volonté de D.ieu.",
-   "lesson": ""},
-  {"sid": "likkut_sicha_9_71",
+   "lesson": ""
+  },
+  {
+   "sid": "likkut_sicha_9_71",
    "ref": "Vol. 9 p. 71",
    "suffix": "Eikev I",
    "kind": "sicha",
@@ -38,8 +45,10 @@
    "theme": "Bitoul en exil",
    "line": "C'est par le bitoul du temps de l'exil, parfait en qualité, qu'on attire l'Essence ; la promesse « Il gardera l'alliance » dépend du service de l'homme, mais ce qu'elle attire dépasse toute lumière liée à ce service.",
    "resume": "« Et il adviendra, au talon, que vous écouterez » vise les mitsvot que l'homme foule du talon, et aussi la génération des talons de Machia'h, qui écoutera la voix de D.ieu. Question : l'alliance et le serment ne dépendent pas du service de l'homme ; pourquoi le verset suspend-il alors leur accomplissement à « au talon vous écouterez » ? Réponse : le service en exil a un avantage. Au temps du Temple, la sainteté brillait à découvert, d'où le bitoul de la prosternation, un anéantissement de l'être ; mais ce bitoul naissait des forces révélées de l'homme, il restait lié à son existence, et sa qualité était donc imparfaite. En exil, le bitoul ne vient pas des forces intérieures ; il n'est qu'un bitoul du « moi », moindre en quantité, mais parfait en qualité. C'est pourquoi c'est lui qui attire l'Essence. Ainsi « Il gardera l'alliance » dépend bien du service, mais ce qui descend dépasse la lumière liée au service : c'est l'Essence même. D'où l'ordre des parachiot : Vaet'hanan, don gratuit, révélation d'en haut, « Na'hamou » ; puis Eikev, l'écoute, « Sion a dit : D.ieu m'a abandonnée » ; et de là « Réé anokhi » — « Moi, Moi, Je vous console ».",
-   "lesson": "Le bitoul modeste du Juif en exil, sans grande révélation, vaut plus en qualité que la prosternation au Temple : c'est lui qui attire l'Essence."},
-  {"sid": "likkut_sicha_9_79",
+   "lesson": "Le bitoul modeste du Juif en exil, sans grande révélation, vaut plus en qualité que la prosternation au Temple : c'est lui qui attire l'Essence."
+  },
+  {
+   "sid": "likkut_sicha_9_79",
    "ref": "Vol. 9 p. 79",
    "suffix": "Eikev II",
    "kind": "sicha",
@@ -47,8 +56,10 @@
    "theme": "Chema, 1er et 2e paragraphes",
    "line": "Vaet'hanan = don gratuit, révélation d'en haut, d'où « de tout ton pouvoir » ; Eikev parle du temps sans révélation : service par les forces révélées, « de tout votre cœur et âme », l'action prime, et il tient « même après votre exil ».",
    "resume": "La différence entre Eikev et Vaet'hanan se lit dans leur point commun : chacune contient un paragraphe du Chema. Dans le premier : « de tout ton pouvoir », la Torah avant les mitsvot, le singulier (et la haftara « Na'hamou »). Dans le second : pas de « tout votre pouvoir », les mitsvot avant la Torah, le pluriel, et selon Rachi le rappel des tefillin et mezouzot vise « même après votre exil ». Explication : Vaet'hanan signifie don gratuit, révélation d'en haut ; Moché, « face du soleil », voulait voir la Terre pour opérer une vision du divin. Cette révélation touche les forces englobantes, 'haya-ye'hida, d'où « de tout ton pouvoir » et le singulier ; d'en haut, « l'étude est plus grande », donc la Torah précède. Mais quand la lumière ne brille pas, on pourrait croire qu'il n'y a plus à accomplir Torah et mitsvot. Eikev parle de ce temps sans révélation, comme le talon sans vitalité : le service passe par les forces révélées, « de tout votre cœur et de toute votre âme », au pluriel, « avertissement à la communauté », dans les dix forces de l'âme ; « l'action est plus grande », et parce qu'il repose sur la force de l'homme, il tient « même après votre exil ». De même dans les haftarot : « Na'hamou » vient d'en haut par les prophètes ; « Sion a dit : D.ieu m'a abandonnée » monte d'en bas et atteint plus haut, jusqu'à « Moi, Moi, Je vous console ».",
-   "lesson": "Quand rien ne brille d'en haut, servir D.ieu avec ses dix forces révélées, dans l'action concrète : c'est ce service-là qui tient en exil et atteint le plus haut."},
-  {"sid": "likkut_sicha_9_265",
+   "lesson": "Quand rien ne brille d'en haut, servir D.ieu avec ses dix forces révélées, dans l'action concrète : c'est ce service-là qui tient en exil et atteint le plus haut."
+  },
+  {
+   "sid": "likkut_sicha_9_265",
    "ref": "Vol. 9 p. 265",
    "suffix": "Hossafot",
    "kind": "hossafa",
@@ -56,8 +67,10 @@
    "theme": "Lettres : prière",
    "line": "Écarter les plaintes sur sa situation, ruses du penchant ; note sur le Zohar Eikev (« verser, attirer, éclairer ») ; « si tu me quittes un jour… » ; Birkat Hamazon par « Berikh Ra'hmana » ; conseil pour qui manque de sérénité ; lettres sur la prière.",
    "resume": "Lettres du Rabbi liées à Eikev et à la prière. Sujets : les plaintes sur son propre état sont des ruses du penchant ; explication d'une note de Likoutei Lévi Its'hak sur le Zohar Eikev, les trois termes « verser, attirer, éclairer » ; « si tu Me quittes un jour, Je te quitterai deux jours » vaut pour la Torah et pour toute sainteté ; s'acquitter de Birkat Hamazon par « Berikh Ra'hmana » ; un conseil pour qui n'a pas l'esprit posé. Puis un long ensemble sur la prière : Torah et prière, deux modes de service ; la valeur de la méditation avant la prière et le retard du Chema qu'elle entraîne ; le Baal Chem Tov sur « prière du pauvre » ; conseils contre les pensées étrangères ; nombreux usages 'Habad (ceinture, talit des jeunes gens, nouçah de l'Ari, birkat cohanim, pessoukei dezimra, tefillin de Rabbénou Tam, ne pas dire les treize principes, kaddich, min'ha, etc.).",
-   "lesson": ""},
-  {"sid": "likkut_sicha_14_30",
+   "lesson": ""
+  },
+  {
+   "sid": "likkut_sicha_14_30",
    "ref": "Vol. 14 p. 30",
    "suffix": "Eikev I - 20 Av",
    "kind": "sicha",
@@ -65,8 +78,10 @@
    "theme": "Tables brisées, 20 Av",
    "line": "Les Tables ont leur sainteté propre, mais unies à l'« écriture de D.ieu » elles s'élevèrent plus haut ; en redescendant, ce fut une chute, au point qu'« elles n'ont plus de substance ».",
    "resume": "De la proximité entre le bris des Tables et la mort d'Aharon, les Sages déduisent : « la mort des justes est aussi dure que le bris des Tables ». Pourtant ce bris a aussi un côté positif : à la guerre, Israël emportait l'Arche contenant les fragments. Le Midrach rapporte que Moché, voyant les lettres s'envoler, dit : « comment les leur donner, elles n'ont plus de substance ». Mais les Tables sont « œuvre de D.ieu » ; comment dire qu'elles n'ont plus de substance ? Réponse : les Tables ont une sainteté propre, mais par leur union — « gravée » — avec l'écriture divine, elles s'étaient élevées à un degré supérieur ; en redescendre est une chute telle qu'« elles n'ont plus de substance ». De même pour la mort des justes : le corps a sa sainteté, mais élevé par l'union avec l'âme, la perte de cette élévation est une chute immense. Emporter les fragments à la guerre rappelait à Israël de ne pas se contenter de ses acquis mais de monter plus haut — « les sages n'ont pas de repos, ils vont de force en force ». Le but de la descente est une montée sans commune mesure au Gan Eden, car pour s'élever sans mesure il faut annuler son degré précédent, ce qui se renouvelle chaque année au jour du départ. D'où le sens de la hilloula du père du Rabbi, parti en exil : descente, puis montée sans commune mesure, renouvelée chaque année.",
-   "lesson": "Ne jamais se contenter du degré acquis : les fragments des Tables rappellent que toute descente doit servir à une montée sans commune mesure."},
-  {"sid": "likkut_sicha_14_37",
+   "lesson": "Ne jamais se contenter du degré acquis : les fragments des Tables rappellent que toute descente doit servir à une montée sans commune mesure."
+  },
+  {
+   "sid": "likkut_sicha_14_37",
    "ref": "Vol. 14 p. 37",
    "suffix": "Eikev II",
    "kind": "sicha",
@@ -74,8 +89,10 @@
    "theme": "Femmes et étude",
    "line": "Admour Hazaken place « si elle aide son mari… elle partage leur récompense » avant l'obligation des femmes d'étudier les lois qui les concernent : leur lien à la récompense de l'étude passe par l'aide au mari et aux fils.",
    "resume": "La Guemara exempte les femmes de l'étude : « vos fils, et non vos filles ». Admour Hazaken poursuit : elle n'est pas tenue d'enseigner à ses fils et n'en reçoit pas la récompense, « mais si elle aide son mari… elle partage leur récompense », et « les femmes doivent étudier les lois qui les concernent ». Question : pourquoi ne pas commencer par leur obligation d'étudier, qui relève de l'étude elle-même et non de la récompense ? Autre question : Admour Hazaken fait bénir les femmes sur la Torah parce qu'elles doivent connaître leurs lois ; quelle source dit que cette étude est de la Torah et non une simple préparation à l'action ? Réponse : la Guemara dit qu'un non-Juif qui étudie ses mitsvot est comme un grand prêtre ; bien que son étude vise l'action, elle est nécessaire à la mitsva et relève donc de l'étude. De même pour les femmes. Mais comme elles n'ont pas de lien propre à la mitsva d'étude, elles n'en reçoivent pas la récompense comme « commandées » ; leur lien à cette récompense vient de l'aide au mari et aux fils — « elle partage », et ne « prend » pas — comme pour la procréation. En pnimiout : D.ieu et Israël sont comme homme et femme ; « remplissez la terre et conquérez-la » ; « l'homme conquiert », la femme ne change pas la nature du monde par elle-même, mais en s'unissant à la Torah et en l'aidant à conquérir le monde, elle devient « associée de D.ieu dans la Création ».",
-   "lesson": "L'aide indispensable à l'étude d'un autre fait partager sa récompense ; celui qui s'unit à la Torah pour conquérir le monde devient associé du Créateur."},
-  {"sid": "likkut_sicha_14_211",
+   "lesson": "L'aide indispensable à l'étude d'un autre fait partager sa récompense ; celui qui s'unit à la Torah pour conquérir le monde devient associé du Créateur."
+  },
+  {
+   "sid": "likkut_sicha_14_211",
    "ref": "Vol. 14 p. 211",
    "suffix": "Hossafot",
    "kind": "hossafa",
@@ -83,8 +100,10 @@
    "theme": "Lettres : Terre, prière, hitkachrout",
    "line": "Lettres : Eikev (Retsé et Yaalé veyavo quand le repas de fête se prolonge en Chabbat), Terre sainte, prière, Torah, hitkachrout.",
    "resume": "Recueil de lettres classées par thème. Eikev : dire Retsé et Yaalé veyavo dans Birkat Hamazon quand un repas de Yom Tov se prolonge jusqu'au Chabbat. Terre sainte : préparation au voyage, redoubler de soin dans les mitsvot, quitter ou non un poste d'influence pour monter, chelou'him à Safed, éducation, Jérusalem, Na'halat Har 'Habad, pose de la première pierre de Tomkhei Temimim à Kfar 'Habad. Prière : la prière est-elle d'ordre biblique selon Admour Hazaken, la kavana, la longueur, la prière du Juif simple, les pensées étrangères, le kaddich, la santé du corps. Torah : pourquoi le Rambam ouvre les lois de l'étude par les exemptions, valeur des lois nécessaires, pnimiout et le tiers de Talmud. Hitkachrout : le « maamad », la chli'hout du Nassi, trois degrés de lien, responsabilité des 'hassidim, directives à un groupe venu de Terre sainte pour Tichri 5721.",
-   "lesson": ""},
-  {"sid": "likkut_sicha_19_89",
+   "lesson": ""
+  },
+  {
+   "sid": "likkut_sicha_19_89",
    "ref": "Vol. 19 p. 89",
    "suffix": "Eikev I",
    "kind": "sicha",
@@ -92,26 +111,32 @@
    "theme": "Mitsvot légères",
    "line": "« Qu'on jette sous ses talons » ne signifie pas qu'on ne les accomplit pas, mais qu'on admet qu'il faut les faire — après (et sans le même soin que) les mitsvot graves.",
    "resume": "Sur « au talon vous écouterez », le Midrach parle des « mitsvot légères qu'on jette sous ses talons », et cite David : « je ne crains pas la faute de mes talons » — il redoute non les mitsvot graves mais les légères. Explication : il ne s'agit pas de quelqu'un qui n'accomplit pas la mitsva (l'accent porterait alors sur « on les jette », et « sous les talons » serait superflu). Il s'agit de celui qui admet qu'il faut les faire, mais après les mitsvot graves, et sans le même soin. Il plaide qu'il existe un ordre selon la Torah : d'abord remplir toutes les obligations, ensuite seulement penser aux embellissements, à la conduite de piété, à 'Hitat, etc. C'est le conseil du penchant, car l'ordre de la réception de la Torah est « nous ferons » puis « nous écouterons » — au-dessus des limites et des ordonnancements dictés par la raison. Par là, on mérite « D.ieu ton D.ieu te gardera l'alliance », d'une manière qui dépasse toute mesure et limite.",
-   "lesson": "Ne pas remettre les hidourim, la piété et 'Hitat « à plus tard, après l'essentiel » : cet ordre raisonnable est la ruse du penchant ; naassé précède nichma."},
-  {"sid": "likkut_sicha_19_94",
+   "lesson": "Ne pas remettre les hidourim, la piété et 'Hitat « à plus tard, après l'essentiel » : cet ordre raisonnable est la ruse du penchant ; naassé précède nichma."
+  },
+  {
+   "sid": "likkut_sicha_19_94",
    "ref": "Vol. 19 p. 94",
    "suffix": "Eikev II",
    "kind": "sicha",
    "verse": "כָּל הַמִּצְוָה אֲשֶׁר אָנֹכִי מְצַוְּךָ הַיּוֹם",
    "theme": "Achever une mitsva",
-   "line": "Comment l'entrée en Terre peut-elle dépendre de « toute la mitsva », alors qu'on ne pouvait accomplir qu'une petite part des mitsvot ? Rachi : « selon le sens simple », toutes celles possibles alors ; et le singulier enseigne « si tu as commencé une mitsva, achève-la ».",
+   "line": "Comment l'entrée en Terre dépend-elle de « toute la mitsva », alors qu'on ne pouvait en accomplir qu'une part ? Rachi : selon le sens simple, toutes celles possibles alors ; et le singulier enseigne « si tu as commencé une mitsva, achève-la ».",
    "resume": "Rachi sur « toute la mitsva » : « selon le sens simple ; et le Midrach : si tu as commencé une mitsva, achève-la, car elle n'est appelée que du nom de celui qui l'achève », avec l'exemple des ossements de Yossef, montés par Moché mais enterrés par Israël et nommés d'après eux. Quelle difficulté Rachi résout-il ? (Ce n'est pas le singulier, déjà présent dans Vaet'hanan sans commentaire.) Réponse : le verset conditionne l'entrée en Terre à l'accomplissement de « toute la mitsva » ; or avant l'entrée on ne pouvait accomplir qu'une petite partie des mitsvot. D'où « selon le sens simple » : toutes celles possibles alors, sur toute la période. Reste une gêne : un singulier pour l'ensemble, qui ne désigne qu'une petite part. D'où le Midrach : le singulier enseigne d'achever ce qu'on a commencé. Lien avec le verset : même si Israël a accompli des mitsvot pendant quarante ans, l'entrée est nommée d'après celui qui achève ; elle dépend donc de ceux qui vont entrer. Rachi détaille Moché et Yossef pour montrer que même si l'inachèvement ne dépendait pas de Moché, et que les fils d'Israël auraient pu l'aider sans le faire, la mitsva porte leur nom ; de même pour la génération entrante, qu'elle ait voulu ou non entrer, la raison n'importe pas. Vin de la Torah : notre génération des talons de Machia'h, qui ne fait qu'achever le travail de toutes les générations, donnera son nom à la mitsva. Et ceux qui ont commencé la diffusion des sources ne peuvent passer à autre chose : « si tu as commencé, achève ».",
-   "lesson": "La mitsva porte le nom de celui qui l'achève : notre génération, qui termine le travail de toutes les autres, doit aller au bout, et qui a commencé à diffuser les sources n'a pas le droit de passer à autre chose."},
-  {"sid": "likkut_sicha_19_106",
+   "lesson": "La mitsva porte le nom de celui qui l'achève : notre génération, qui termine le travail de toutes les autres, doit aller au bout, et qui a commencé à diffuser les sources n'a pas le droit de passer à autre chose."
+  },
+  {
+   "sid": "likkut_sicha_19_106",
    "ref": "Vol. 19 p. 106",
    "suffix": "Eikev III",
    "kind": "sicha",
    "verse": "פְּסָל לְךָ",
    "theme": "Pessol lekha, déchets des Tables",
-   "line": "Au désert on ne bâtissait pas en pierre ; le Rabbi Maharach demande pourquoi un ordre spécial « taille pour toi » — « les déchets seront à toi » — alors que les éclats de pierre sont sans valeur ni vol ? Réponse : c'était du saphir, donc même les déchets comptaient.",
+   "line": "Sur « taille pour toi », le Rabbi Maharach demande pourquoi un ordre spécial « les déchets seront à toi », alors que les éclats de pierre sont sans valeur et ne relèvent pas du vol. Réponse : les secondes Tables étaient de saphir, leurs déchets comptaient.",
    "resume": "Sur « taille pour toi », la Guemara dit : « les déchets seront à toi ». À la fin de Baba Kama : les flocons que retire le foulon sont à lui, ceux du cardeur au propriétaire ; et une baraïta : « les éclats des tailleurs de pierre ne relèvent pas du vol ». Le Rabbi Maharach demande dans ses notes pourquoi il fallut dire spécialement à Moché que les déchets seraient à lui, puisque les éclats de pierre ne relèvent pas du vol ; il répond que les pierres étaient de saphir, donc leurs déchets avaient de la valeur. Explication : la baraïta distingue les pierres, jamais vol, des arbres et vignes, selon que le propriétaire y tient ; la Tossefta met les pierres avec le reste, tout dépendant du propriétaire. Car les baraïtot furent étudiées à Babylone, sans pierres, où les éclats importés ne valent rien ; la Tossefta de Rabbi 'Hiya fut enseignée devant Rabbi en Terre d'Israël, où l'on bâtit en pierre. Au désert, sans construction de pierre, la question du Maharach s'impose, et la réponse aussi. Autre explication : sans l'ordre, on aurait cru les déchets à la communauté. En pnimiout : la Guemara dit que déchets et pilpoul de la Torah furent donnés à Moché ; les secondes Tables, non données d'en haut, figurent la Torah telle qu'elle descend ici-bas, où naît l'effort, dû à l'occultation — les « déchets » ; mais par l'effort on atteint l'essence de la Torah, au-dessus des premières Tables, et Moché, généreux, la donna à Israël.",
-   "lesson": "L'effort dans la Torah, né de l'occultation d'ici-bas, est le « déchet » qui mène à l'essence de la Torah, plus haut que ce qui fut donné d'en haut."},
-  {"sid": "likkut_sicha_19_115",
+   "lesson": "L'effort dans la Torah, né de l'occultation d'ici-bas, est le « déchet » qui mène à l'essence de la Torah, plus haut que ce qui fut donné d'en haut."
+  },
+  {
+   "sid": "likkut_sicha_19_115",
    "ref": "Vol. 19 p. 115",
    "suffix": "Eikev IV",
    "kind": "sicha",
@@ -119,8 +144,10 @@
    "theme": "Pluie et effort",
    "line": "Ici « la pluie de votre terre » appartient à la terre, bénédiction dans la nature ; Rachi explique : « vous avez fait ce qui vous incombe ». Dans Be'houkotaï, « peiner dans la Torah » au-delà du devoir vaut une bénédiction au-dessus de la nature.",
    "resume": "Rachi : « Je donnerai la pluie de votre terre : vous avez fait ce qui vous incombe, Moi aussi Je ferai ce qui M'incombe. En son temps : la nuit, pour ne pas vous gêner ; autre explication, les nuits de Chabbat, quand tous sont chez eux ». Que résout Rachi ? Le Réem dit qu'Israël fait toute la volonté divine, d'où une bénédiction détaillée ; mais Rachi ne cite pas la suite du verset, et pour lui les bénédictions de Be'houkotaï sont plus hautes, surnaturelles — les arbres stériles y porteront des fruits. Explication : dans Be'houkotaï, « vos pluies », celles d'Israël, donc non limitées par la nature ; ici, « la pluie de votre terre », qui appartient à la terre, donc dans la nature. Rachi en donne la raison : ici « vous avez fait » seulement « ce qui vous incombe », alors que « marcher dans Mes lois » signifie « peiner dans la Torah », au-delà de l'obligation. D'où la suite : là-bas « en leur temps » n'est que les nuits de Chabbat, car au-dessus de la nature peu de pluie suffit ; ici la terre a besoin de plus, donc « la nuit », « pour ne pas vous gêner ». Mais « en son temps » suppose un temps réservé à la pluie, et la nuit des gens voyagent ; d'où le second sens, les nuits de Chabbat, où tous sont chez eux. Leçon : l'importance de l'effort en Torah et mitsvot au-delà de la nature de l'âme divine.",
-   "lesson": "Faire seulement « ce qui incombe » n'obtient qu'une bénédiction dans la nature ; peiner dans la Torah au-delà du devoir ouvre la bénédiction au-dessus de la nature."},
-  {"sid": "likkut_sicha_19_121",
+   "lesson": "Faire seulement « ce qui incombe » n'obtient qu'une bénédiction dans la nature ; peiner dans la Torah au-delà du devoir ouvre la bénédiction au-dessus de la nature."
+  },
+  {
+   "sid": "likkut_sicha_19_121",
    "ref": "Vol. 19 p. 121",
    "suffix": "Eikev V",
    "kind": "sicha",
@@ -128,8 +155,10 @@
    "theme": "Mezouza et protection",
    "line": "Dans la mezouza, la protection n'est pas seulement une récompense mais fait partie de la mitsva ; viser aussi cette protection n'est pas « pas pour elle-même ». Même hors de sa place, la mezouza garde une segoula de protection.",
    "resume": "« Tu les écriras sur les montants de ta maison… afin que se multiplient vos jours ». Le Tour enseigne que la mezouza protège la maison, et le Ba'h : « un profit qui vient du corps même de la mitsva, en plus de la récompense ». Ainsi, si viser la récompense rend une mitsva « pas pour elle-même », dans la mezouza la protection appartient au corps de la mitsva : D.ieu a ordonné de la poser pour protéger, et viser aussi cette protection reste conforme. Le Rambam condamne ceux qui écrivent des noms d'anges à l'intérieur, « comme une amulette pour leur plaisir » : la sottise est d'ajouter des noms, signe qu'ils ne visent pas la protection de la mitsva mais un talisman pour les vanités du monde. Il s'ensuit que même hors de sa place, la mezouza garde une segoula, puisque la protection est de son essence ; le Tossefot Yom Tov le suggère sur « un bâton qui a un réceptacle pour mezouza » : des gens la portaient sur eux « pour mitsva et protection ». D'où l'anecdote du Rabbi précédent en prison : interrogé s'il savait où il se trouvait, il répondit « dans une maison dispensée de mezouza », mentionnant ainsi la mezouza, fût-ce négativement, pour en tirer protection. De là l'importance de la campagne de mezouza : « D.ieu gardera ta sortie et ton entrée ».",
-   "lesson": "Poser une mezouza en pensant aussi à la protection de sa famille est pleinement conforme ; d'où l'urgence de la campagne de mezouza."},
-  {"sid": "likkut_sicha_19_450",
+   "lesson": "Poser une mezouza en pensant aussi à la protection de sa famille est pleinement conforme ; d'où l'urgence de la campagne de mezouza."
+  },
+  {
+   "sid": "likkut_sicha_19_450",
    "ref": "Vol. 19 p. 450",
    "suffix": "Hossafot",
    "kind": "hossafa",
@@ -137,8 +166,10 @@
    "theme": "Lettres : Terre, prière, hitkachrout",
    "line": "Lettres : lever la coupe de bénédiction d'un tefa'h, bénédiction par les mitsvot surtout en Terre sainte, premières pierres, nouçah de l'Ari, tefillin, kaddich de l'endeuillé, pensées étrangères, hitkachrout, maamad, Kfar 'Habad, chadar.",
    "resume": "Recueil de lettres. Lever la coupe de bénédiction d'un tefa'h ; la bénédiction vient par les mitsvot, surtout en Terre sainte ; premières pierres de Kfar 'Habad II et de Torat Emet à Jérusalem ; directives pour qui monte en Terre sainte ; passer au nouçah de l'Ari et au nœud de tefillin 'Habad ; officier en nouçah de l'Ari devant un public d'un autre rite ; l'endeuillé qui dit seize kaddichim ; ne pas parler pendant la lecture ; le service intérieur au-dessus de la seule soumission ; nombreuses questions de nouçah et de prononciation ; hauts et bas dans le service ; conseils de méditation et contre les pensées étrangères ; source de l'expression « le non-Juif qui est en chacun » ; hitkachrout par l'étude, ses voies, l'étude des maamarim du Rabbi précédent ; unité entre 'hassidim ; le « maamad » et la ruse du penchant qui en détourne ; s'appuyer sur les conseils du Rabbi ; habiter Kfar 'Habad ; le lien avec les Juifs de Russie ; directives à un chadar.",
-   "lesson": ""},
-  {"sid": "likkut_sicha_24_67",
+   "lesson": ""
+  },
+  {
+   "sid": "likkut_sicha_24_67",
    "ref": "Vol. 24 p. 67",
    "suffix": "Eikev I",
    "kind": "sicha",
@@ -146,8 +177,10 @@
    "theme": "Birkat Hamazon",
    "line": "Différences de formulation sur Birkat Hamazon entre Siddour, Choul'han Aroukh et Rambam : dans le Choul'han Aroukh, Admour Hazaken ajoute « et Hachem » car « et » inclut le maître de maison ; il souligne que l'obligation biblique est de bénir D.ieu seul.",
    "resume": "En tête du Séder Birkot Hanehenin, Admour Hazaken écrit : « c'est un commandement de la Torah de bénir après le repas, comme il est dit : tu mangeras, tu seras rassasié et tu béniras Hachem ». Pourquoi ces différences avec son Choul'han Aroukh, qui ajoute « (bénir) Hachem », et avec le Rambam, qui écrit d'abord « bénir » seul puis cite « ton D.ieu » ? Réponse : le Séder Birkot Hanehenin fait partie du Siddour, guide de conduite pratique, où l'essentiel est de clarifier l'acte sur place ; le Choul'han Aroukh (et le Rambam) rassemblent toutes les lois et doivent prévenir les erreurs ailleurs. Or « et » (èt) vient inclure, et ici on en déduit qu'il faut bénir le maître de maison ; Admour Hazaken souligne donc que l'obligation biblique est seulement de bénir Hachem. Le Choul'han Aroukh donne les lois avec leurs raisons, d'où « etc. » après le verset, allusion à « pour la bonne terre », raison de mentionner la Terre ; le Rambam, sans ce raisonnement, l'omet. Dans le Séder, il cite tout le verset, car cela ajoute compréhension et plaisir, mais omet « ton D.ieu », étranger à la définition de Birkat Hamazon : la Tossefta en déduit « bénir sur le mal comme sur le bien », contraire à une bénédiction pour la satiété et le plaisir du corps. Même logique pour « qui jouit de ce monde sans bénédiction… profane le sacré, car à Hachem la terre et sa plénitude etc. » : le « etc. » du Siddour renvoie à « le monde et ses habitants », pas seulement la Terre d'Israël, mais aussi ce qui appartient à autrui ou à un non-Juif.",
-   "lesson": "Bénir après le repas, c'est bénir D.ieu seul pour la satiété et le plaisir du corps ; jouir de quoi que ce soit sans bénédiction, c'est toucher au sacré."},
-  {"sid": "likkut_sicha_24_73",
+   "lesson": "Bénir après le repas, c'est bénir D.ieu seul pour la satiété et le plaisir du corps ; jouir de quoi que ce soit sans bénédiction, c'est toucher au sacré."
+  },
+  {
+   "sid": "likkut_sicha_24_73",
    "ref": "Vol. 24 p. 73",
    "suffix": "Eikev II",
    "kind": "sicha",
@@ -155,8 +188,10 @@
    "theme": "Pas de pot-de-vin",
    "line": "« Si vous rejetez Son joug » : non de simples fautes, couvertes par « que D.ieu élève Sa face », mais le rejet total du joug divin ; Rachi cite « Il ne prend pas », car l'argent peut racheter, sauf pour qui rejette tout le joug.",
    "resume": "Rachi : « Il ne fait pas de faveur : si vous rejetez Son joug. Il ne prend pas de pot-de-vin : L'apaiser par de l'argent ». Questions : pourquoi préciser « si vous rejetez Son joug » ; pourquoi « argent » et non « mitsvot » comme d'autres commentateurs ; pourquoi recopier « Il ne prend pas » ? Réponse : Rachi précise qu'il ne s'agit pas de fautes ordinaires, couvertes par « que D.ieu élève Sa face vers toi », mais du rejet de tout le joug divin. Il y est contraint par le début de la paracha : « que demande D.ieu de toi, sinon de craindre », que Rachi lit « bien que vous ayez fait tout cela, Il vous chérit encore et ne demande que la crainte » — D.ieu fait donc faveur à Israël. Le pot-de-vin ne peut alors être des mitsvot, puisque le sujet est celui qui rejette tout ; d'où « par de l'argent » : Rachi a déjà expliqué « vous ne prendrez pas de rançon » comme « ne pas se libérer par l'argent », signe que l'argent peut être rançon à la place du donneur, car, dit Admour Hazaken, l'argent est la vie de l'âme. D'où « Il ne prend pas » : l'argent pourrait racheter, sauf pour qui rejette tout. Ainsi s'éclaire la Michna d'Avot, lue certaines années ce Chabbat, « ni faveur ni pot-de-vin » : le verset parle du rejet du joug, la Michna, mesure de piété, de qui accomplit les mitsvot mais dont la faute n'est pas effacée pour autant. Et le Midrach où D.ieu accepte le « pot-de-vin » des méchants, techouva et bonnes actions : la techouva dépasse sans mesure Torah et mitsvot, elle change les fautes en mérites.",
-   "lesson": "Les mitsvot n'effacent pas une faute, mais la techouva change les fautes en mérites : c'est le seul « pot-de-vin » que D.ieu accepte."},
-  {"sid": "likkut_sicha_24_379",
+   "lesson": "Les mitsvot n'effacent pas une faute, mais la techouva change les fautes en mérites : c'est le seul « pot-de-vin » que D.ieu accepte."
+  },
+  {
+   "sid": "likkut_sicha_24_379",
    "ref": "Vol. 24 p. 379",
    "suffix": "Hossafot",
    "kind": "hossafa",
@@ -164,8 +199,10 @@
    "theme": "Lettres : Terre, prière, hitkachrout",
    "line": "Lettres : santé et mikvé, ordre de Birkat Hamazon, amen dans Yaalé veyavo, « mearin 'hayin » ; Terre sainte (élections, front religieux, Kfar 'Habad, Avivim) ; prière ; hitkachrout.",
    "resume": "Recueil de lettres. Eikev : santé du corps et vertu du mikvé ; ordre de Birkat Hamazon, moment de répondre amen dans Yaalé veyavo et après « al ye'hasserenou » ; annonce de la dernière bénédiction ; conciliation entre deux passages du Choul'han Aroukh d'Admour Hazaken. Terre sainte : valeur du temps, mérite d'un maire élu, unité d'Israël partout, permission de sortir du pays, monter en montant aussi spirituellement, habiter Kfar 'Habad, ne pas fuir le combat, Na'halat Har 'Habad, chelou'him, comité pour la synagogue Tséma'h Tsédek dans la vieille ville, encouragement aux habitants d'Avivim après un attentat, obligation de voter et de maintenir le front religieux. Prière : Tanya fin du chapitre 42 et Berakhot 21a, nouçah au pluriel, ne pas parler, choix de l'officiant, manger avant de prier, ne pas retarder, prier dans le livre contre les pensées errantes, « tu as peiné, tu as trouvé », nombreux usages. Hitkachrout : par la Torah, envoyer des photos au Rabbi, ne pas quitter son poste, rester « dans la vigne » du Rabbi, zèle, maamad, venir pour Tichri, « le chagrin des 'hassidim ».",
-   "lesson": ""},
-  {"sid": "likkut_sicha_29_49",
+   "lesson": ""
+  },
+  {
+   "sid": "likkut_sicha_29_49",
    "ref": "Vol. 29 p. 49",
    "suffix": "Eikev I",
    "kind": "sicha",
@@ -173,8 +210,10 @@
    "theme": "Rachi, Tables égales",
    "line": "Quand la Torah souligne la grandeur des Tables, Rachi s'étonne que « lou'hot » ne soit pas écrit plein ; d'où ici seulement « lou'hot est écrit défectif : les deux sont égales » — sans dire « défectif », car cette égalité exprime justement leur grandeur.",
    "resume": "Rachi au chapitre 9 : « lou'hot : écrit défectif, car les deux sont égales ». Il ne précise pas le verset, mais ce commentaire vient entre le verset 9 et le 18. Pourquoi pas sur « lou'hot » au début du verset 9, ni dans Vaet'hanan ? Préliminaire : Rachi tantôt écrit « défectif », tantôt cite seulement le mot. Il n'explique pas chaque défectif ; il le fait seulement quand, au sens simple, on attendrait une graphie pleine. Premier cas : « meorot » défectif, « jour de malédiction », alors que la Création était « bonne » et appelait la plénitude. Mais quand la lacune n'exprime pas un manque dans la chose, Rachi n'écrit pas « défectif » : « taninim », la femelle tuée et salée pour les justes, n'est pas un défaut. Ici, la Torah souligne la grandeur des Tables — « écrites du doigt de D.ieu… je les saisis et les brisai sous vos yeux » —, on attendrait donc « lou'hot » plein ; d'où l'explication de Rachi, sans « défectif », car l'égalité des deux exprime leur grandeur : une main humaine peine à obtenir une égalité parfaite, et les cinq dernières paroles ont moins de lettres que les cinq premières, pourtant elles sont égales. Rachi vise donc les Tables après le verset 9 : au verset 9, « en montant », elles sont chez D.ieu ; la nouveauté est que, données à Moché, elles gardent un caractère divin. Vin de la Torah : au verset 11, « lou'hot » défectif s'attache aux pierres, non à l'alliance, car la nouveauté est que les pierres elles-mêmes sont divines.",
-   "lesson": "La grandeur des Tables tient à ce que la pierre elle-même, donnée à l'homme, reste divine : une égalité parfaite qu'aucune main humaine n'atteint."},
-  {"sid": "likkut_sicha_29_61",
+   "lesson": "La grandeur des Tables tient à ce que la pierre elle-même, donnée à l'homme, reste divine : une égalité parfaite qu'aucune main humaine n'atteint."
+  },
+  {
+   "sid": "likkut_sicha_29_61",
    "ref": "Vol. 29 p. 61",
    "suffix": "Eikev II",
    "kind": "sicha",
@@ -182,8 +221,10 @@
    "theme": "Mezouza, Rambam",
    "line": "Le Rambam cite « quiconque a… » dans les lois de mezouza : la mezouza rappelle par son objet même, alors que les tefillin agissent par leur sainteté et les tsitsit parce que « la Torah y a suspendu toutes les mitsvot ».",
    "resume": "Le Rambam clôt les lois de mezouza : « l'homme doit être attentif à la mezouza… chaque fois qu'il entre et sort, il rencontre l'unité de D.ieu, se souvient de Son amour, s'éveille de son sommeil… et revient aussitôt à la droiture ; les Sages ont dit : quiconque a tefillin, tsitsit et mezouza est présumé ne pas fauter, car il a de nombreux rappels… Berikh Ra'hmana ». Pourquoi placer cela dans les lois de mezouza et non des tefillin, ou après les tsitsit ? Pourquoi omettre « le fil triple ne se rompt pas vite » ? Préliminaire : « attentif à la mezouza », et non « à la mitsva de mezouza » comme pour les tsitsit : le Rambam vise l'action de l'objet sur l'homme. C'est donc ici qu'il cite « quiconque a… », car la mezouza rappelle par son objet même, alors que pour les tefillin il évoque leur sainteté, et pour les tsitsit le fait que la Torah y a suspendu toutes les mitsvot. Distinguant ainsi, il omet le fil triple, qui suppose trois fils égaux. D'où aussi « Berikh Ra'hmana dessayan » (« qui aide ») à la fin des lois de mezouza. Plus profondément : aider, c'est ne pas tout faire, mais assurer que la chose aboutit. Les tefillin font tout — « tant qu'il les porte, il est humble » ; les tsitsit rappellent sans mener forcément à l'acte ; la mezouza est l'aide qui fait que l'homme lui-même s'éveille et « revient à la droiture » — le vrai souvenir mène à l'acte. Et cette aide vaut aussi au-dehors, dans le tefa'h le plus proche de la rue.",
-   "lesson": "La mezouza est une aide : elle n'agit pas à notre place, mais fait que nous nous réveillions nous-mêmes, à la maison comme en sortant vers le monde."},
-  {"sid": "likkut_sicha_29_263",
+   "lesson": "La mezouza est une aide : elle n'agit pas à notre place, mais fait que nous nous réveillions nous-mêmes, à la maison comme en sortant vers le monde."
+  },
+  {
+   "sid": "likkut_sicha_29_263",
    "ref": "Vol. 29 p. 263",
    "suffix": "Hossafot - Chabbat Eikev, 20 Mena'hem Av 5740",
    "kind": "hossafa",
@@ -191,8 +232,10 @@
    "theme": "Personnes âgées",
    "line": "S'occuper des personnes âgées, hommes et femmes, et fonder les kollelim « Tiferet Zekénim Lévi Its'hak » et « 'Hokhmat Nachim ».",
    "resume": "Si'ha de Chabbat Eikev, 20 Mena'hem Av 5740 : l'effort à faire pour les hommes et femmes âgés, avec la fondation des kollelim « Tiferet Zekénim Lévi Its'hak » et « 'Hokhmat Nachim ».",
-   "lesson": ""},
-  {"sid": "likkut_sicha_29_390",
+   "lesson": ""
+  },
+  {
+   "sid": "likkut_sicha_29_390",
    "ref": "Vol. 29 p. 390",
    "suffix": "Hossafot",
    "kind": "hossafa",
@@ -200,8 +243,10 @@
    "theme": "Lettres : prière",
    "line": "Lettres sur la prière : heure de Cha'harit et du Chema selon le Tséma'h Tsédek, conseils pour renforcer la prière, mikvé, longueur, kavanot, pensées errantes, minyan, usages 'Habad, nouçah, lecture de la Torah, étude des filles, berakha mé'ein chaloch.",
    "resume": "Long recueil de lettres sur la prière. Discussion des mots du Tséma'h Tsédek : Cha'harit jusqu'à quatre heures comme le tamid, Chema jusqu'à trois comme l'encens ; conseils pour renforcer la prière ; mikvé sans intention et lien entre immersion et prière ; prière longue ; deux sortes de kavana ; ceux qui lisent un petit Chema à l'heure et repoussent le reste ; qui a veillé la nuit ; étude de 'hassidout entre Yichtaba'h et Yotser ; prier longuement quand le public se hâte ; sauter les pessoukei dezimra ; tsedaka avant la prière ; amen et kedoucha par micro ; enfant complétant le minyan ; talit de l'officiant ; usages 'Habad et leurs sources ; « Modé ani » ; berakhot du matin en public ; « lechem yi'houd » ; nombreux détails de nouçah, ponctuation et usages de lecture de la Torah ; l'étude des filles ; s'acquitter de Birkat Hamazon par « al hami'hya » ; nouçah de mé'ein chaloch en Terre d'Israël.",
-   "lesson": ""},
-  {"sid": "likkut_sicha_34_51",
+   "lesson": ""
+  },
+  {
+   "sid": "likkut_sicha_34_51",
    "ref": "Vol. 34 p. 51",
    "suffix": "Eikev I",
    "kind": "sicha",
@@ -209,17 +254,21 @@
    "theme": "Tables brisées, 20 Av",
    "line": "Moché « saisit » les Tables : destinées à Israël, il ne les avait pas pleinement acquises ; il les saisit pour les acquérir, puis les brisa. En pnimiout : par amour d'Israël, il ôta au peuple toute responsabilité du bris.",
    "resume": "Sur « je saisis les deux Tables et les jetai de mes deux mains », le Or Ha'haïm demande : pourquoi les saisir, puisqu'il les tenait ? Question préalable : comment Moché put-il briser les Tables, biens de la communauté, causant un dommage au bien public ? Réponse : l'Arche et le Michkan sont biens de la communauté, mais les Tables furent données à Moché — « Il donna à Moché… deux Tables de pierre », et le Tan'houma sur les secondes : « taille pour toi, à ton mérite, elles sont à toi », ce qui vaut sans doute aussi pour les premières. Or Moché avait dès l'abord l'intention de les donner à Israël ; il ne les avait donc pas pleinement acquises. Il les saisit pour les acquérir, afin qu'elles ne soient pas bien public, et seulement ensuite les brisa. En pnimiout : par son immense amour pour Israël, Moché saisit les Tables avant de les briser pour ôter au peuple toute responsabilité dans leur bris — elles devaient être entièrement à lui. Les Sages disent que la mort des justes est aussi dure que le bris des Tables ; le lien intérieur : la mort des justes expie non seulement l'involontaire mais aussi le volontaire, car le juste, même élevé, n'abandonne pas son troupeau ; de même Moché, étranger à la faute du veau, chercha à l'expier, jusqu'à briser les Tables de sorte que lui seul en réponde. En particulier au 20 Av, hilloula du père du Rabbi, dont le départ eut pour cause naturelle le sacrifice pour diffuser le judaïsme : ce jour-là son âme monte plus haut et en même temps « opère des délivrances au sein de la terre ».",
-   "lesson": "Le berger prend sur lui la responsabilité pour que son troupeau soit innocent ; au jour de sa hilloula, le juste monte et, en même temps, opère des délivrances ici-bas."},
-  {"sid": "likkut_sicha_34_59",
+   "lesson": "Le berger prend sur lui la responsabilité pour que son troupeau soit innocent ; au jour de sa hilloula, le juste monte et, en même temps, opère des délivrances ici-bas."
+  },
+  {
+   "sid": "likkut_sicha_34_59",
    "ref": "Vol. 34 p. 59",
    "suffix": "Eikev II",
    "kind": "sicha",
    "verse": "וְלֹא יִקַּח שֹׁחַד",
    "theme": "Techouva",
-   "line": "Le changement de la personne n'a lieu que par une techouva parfaite, mais D.ieu pardonne même une techouva imparfaite : vu de l'homme, cela ressemble à un pot-de-vin, sans contredire « Il ne prend pas de pot-de-vin », car D.ieu voit déjà le point du changement.",
+   "line": "Seule une techouva parfaite change vraiment la personne, mais D.ieu pardonne déjà pour une techouva imparfaite : vu d'en bas cela ressemble à un pot-de-vin, sans contredire « Il ne prend pas de pot-de-vin », car D.ieu voit le point du changement.",
    "resume": "« Il ne fait pas de faveur et ne prend pas de pot-de-vin ». Comment envisager que D.ieu prenne un pot-de-vin, contre Son propre commandement ? Et le Midrach dit qu'Il accepte le pot-de-vin de la techouva ! Les commentateurs expliquent que D.ieu accepte le seul pot-de-vin de la techouva et non celui des autres mitsvot : beaucoup de mitsvot n'expient pas les fautes commises. Mais comment la techouva serait-elle un pot-de-vin ? Si elle expie la faute, le pardon est de droit. Réponse : l'expiation par la techouva comporte deux aspects : du côté de l'objet, la faute est réparée ; du côté de la personne, ce n'est plus le même homme qui a fauté, et même si l'acte demeure, il n'est pas puni. La différence apparaît dans les cas « tordus, qu'on ne peut redresser » : la techouva de l'objet ne sert à rien, mais celle de la personne reste possible. D'où le pot-de-vin de la techouva : le changement de la personne n'est complet que par une techouva parfaite ; pourtant D.ieu pardonne même une techouva imparfaite, ce qui, du point de vue de l'homme, ressemble à un pot-de-vin. Sans contredire « Il ne prend pas de pot-de-vin » : D.ieu voit que le point du changement existe déjà — ce n'est plus le même homme —, il ne manque que la diffusion de ce point à tout l'homme.",
-   "lesson": "Une techouva même imparfaite est accueillie, parce que D.ieu voit le point de changement avant qu'il se soit répandu dans tout l'homme."},
-  {"sid": "likkut_sicha_34_67",
+   "lesson": "Une techouva même imparfaite est accueillie, parce que D.ieu voit le point de changement avant qu'il se soit répandu dans tout l'homme."
+  },
+  {
+   "sid": "likkut_sicha_34_67",
    "ref": "Vol. 34 p. 67",
    "suffix": "Eikev III",
    "kind": "sicha",
@@ -227,17 +276,21 @@
    "theme": "Crainte dans la prière",
    "line": "Pour le Bavli, tout homme ne peut atteindre le haut degré de crainte de « prosternez-vous dans la splendeur sainte », d'où le rejet de ce verset ; le Yerouchalmi le garde ; le Midrach ne retient que le sens intérieur : le bitoul de la 'herdat kodech.",
    "resume": "Michna : « on ne se lève pour prier que dans la gravité (koved roch) ». La Guemara cherche la source : 'Hana « amère d'âme » — mais elle était un cas particulier ; « prosternez-vous dans la splendeur (hadrat) sainte », lu « tremblement ('herdat) » — mais peut-être est-ce littéral ; enfin « servez D.ieu dans la crainte ». Le Bavli écarte donc « hadrat » ; le Yerouchalmi garde les deux ; le Yalkout ne cite que « hadrat ». Pourquoi un « al tikré » s'il existe un verset explicite ? Les sources diffèrent sur le degré de crainte requis. Rachi lit koved roch comme humilité ; selon le Rogatchover, pour la première opinion la crainte relève de l'effet — que la prière soit reçue. La 'herdat kodech est un haut degré : le tremblement pénètre tout l'être, né de la grandeur divine ; c'est l'avis de Rabbi Yehochoua ben Lévi, pour qui « l'humilité est la plus grande de toutes », un bitoul essentiel — la crainte relevant de l'objet de la prière, se tenir devant D.ieu. « Servez D.ieu dans la crainte » est la crainte simple, avis de Rav Na'hman bar Its'hak, qui disait « la crainte de la faute n'a pas disparu, puisque je suis là » : au début, il lui fallait un rappel constant, comme le raconte Chabbat 156b ; la crainte simple suffit, du côté de l'homme, pour écarter les pensées gênantes. Le Bavli, « dans les ténèbres », au temps de l'exil, juge ce haut degré inaccessible à tous et rejette « hadrat » ; le Yerouchalmi, Torah de la Terre d'Israël, l'admet ; le Midrach, où sont cachés la plupart des secrets, ne garde que le contenu intérieur : le bitoul de la 'herdat kodech.",
-   "lesson": "Même en exil, la prière exige au moins la crainte simple qui écarte les pensées gênantes ; le tremblement devant la grandeur divine reste l'horizon."},
-  {"sid": "likkut_sicha_34_254",
+   "lesson": "Même en exil, la prière exige au moins la crainte simple qui écarte les pensées gênantes ; le tremblement devant la grandeur divine reste l'horizon."
+  },
+  {
+   "sid": "likkut_sicha_34_254",
    "ref": "Vol. 34 p. 254",
    "suffix": "Hossafot",
    "kind": "hossafa",
    "verse": "עֵקֶב תִּשְׁמְעוּן אֵת הַמִּשְׁפָּטִים",
    "theme": "Lettres : joug, Terre, prière",
-   "line": "Lettres : même les mitsvot rationnelles avec kabbalat ol ; source d'une récompense spéciale pour les mitsvot légères ; la Terre sainte doit rendre saint ; nouçah de l'Ari ; conseils pour la prière ; 'hassidout pour les femmes ; maamad ; ye'hidout collective ; le Rabbi Maharach.",
+   "line": "Lettres : accomplir même les mitsvot rationnelles par acceptation du joug ; récompense particulière des mitsvot légères ; la Terre sainte doit rendre saint ; nouçah de l'Ari ; conseils pour la prière ; 'hassidout pour les femmes ; maamad ; le Rabbi Maharach.",
    "resume": "Recueil de lettres. « Au talon vous écouterez les lois » : même les mitsvot rationnelles doivent être accomplies par acceptation du joug ; source d'une récompense particulière pour les mitsvot légères. Terre sainte : une visite doit opérer de la sainteté ; monter en faisant de la Terre d'Israël une Terre sainte ; un parti pour que l'État des Juifs devienne un État juif ; « fais ici Erets Israël » ; Kollel 'Habad ; accueil des nouveaux immigrants ; prononciation ; il est « très, très » juste de passer au nouçah de l'Ari ; sens de « kodam avouhon » ; interruption dans la prière par « tate » ; prier selon la 'hassidout, répartir la méditation sur plusieurs jours ; contre les pensées gênantes, Tanya chapitre 41 ; quand étudier le Tanya ; conseils de kavana ; notes sur le Siddour de l'Ari ; un siddour au nouçah unifié pour toutes les communautés est à écarter ; 'hassidout pour les femmes ; le maamad et le manque de « miracles » dû à la faiblesse du lien ; le tirage au sort pour venir chez le Rabbi ; la ye'hidout collective ; satisfaction du Rabbi par l'étude et le respect des horaires de yechiva ; mérite de qui vit le Rabbi Maharach et de ses descendants qui impriment ses enseignements.",
-   "lesson": ""},
-  {"sid": "likkut_sicha_39_266",
+   "lesson": ""
+  },
+  {
+   "sid": "likkut_sicha_39_266",
    "ref": "Vol. 39 p. 266",
    "suffix": "Hossafot",
    "kind": "hossafa",
@@ -245,7 +298,8 @@
    "theme": "Lettres : sel, Terre, prière",
    "line": "Lettres : pourquoi tremper le pain trois fois dans le sel selon l'Ari, trois Havayot de 'hessed et gvoura, l'adoucissement ; kabbalat ol et intellect dans le service ; Terre sainte et refus de rendre les territoires ; prière ; correctif au Siddour Torah Or.",
    "resume": "Recueil de lettres. Eikev : explication des écrits de l'Ari sur les trois trempages du pain dans le sel, les trois Havayot de 'hessed et de gvoura et l'adoucissement ; dans le service divin il faut à la fois la kabbalat ol et 'Habad-'Hagat-Nehim, chacun pour soi et comme receveur. Terre sainte et refus de rendre les territoires : album de Tel Aviv, ne pas quitter le pays, retour en tous sens, pourquoi ne pas employer « État d'Israël », natalité, les événements de l'été 5727, l'incendie du mont du Temple, la frontière du canal de Suez, la ligne Maginot n'est pas la voie, ne pas quitter un poste de sécurité, 'Hevron et les implantations, une réinstallation 'Habad à 'Hevron, Jérusalem, pourquoi le sujet des territoires a cessé d'être évoqué. Prière : le Kouzari sur les mouvements pendant la prière, minyan, netilat yadaïm oubliée, grandeur du mikvé, demande de guérison dans Chema kolénou, segoula pour un malade des jambes, chercher les sources des dictons cités en 'hassidout, ye'hidout collective, annonce du Rama à Pourim. Omission : correction d'une erreur dans le Siddour Torah Or sur la sortie du Séfer Torah.",
-   "lesson": ""}
+   "lesson": ""
+  }
  ],
  "threads": [
   "Le temps du talon : servir sans révélation d'en haut, avec ses forces révélées et dans l'action, et achever ce que les générations ont commencé — Vol. 9 p. 71, Vol. 9 p. 79, Vol. 19 p. 94, Vol. 2 p. 371.",
@@ -255,45 +309,176 @@
   "« Il ne prend pas de pot-de-vin » et la techouva qui change l'homme — Vol. 24 p. 73, Vol. 34 p. 59 ; la prière et la crainte, Vol. 34 p. 67."
  ],
  "courses": [
-  {"title": "« Le temps du talon »",
+  {
+   "title": "« Le temps du talon »",
    "angle": "Pourquoi le service modeste d'aujourd'hui, sans lumière ni miracle, vaut plus que celui du Temple : pour un farbrenguen de Chabbat Eikev, public 'hassidique.",
-   "refs": ["Vol. 9 p. 71", "Vol. 9 p. 79", "Vol. 19 p. 94", "Vol. 2 p. 371"],
+   "refs": [
+    "Vol. 9 p. 71",
+    "Vol. 9 p. 79",
+    "Vol. 19 p. 94",
+    "Vol. 2 p. 371"
+   ],
    "steps": [
-    {"t": "0:00", "h": "Accroche — un mot bizarre", "p": "La paracha commence par un mot qu'on traduit d'habitude par « parce que » : « Vehaya eikev tichmeoun », « et il adviendra, parce que vous écouterez ». Mais eikev, c'est d'abord le talon. La Torah aurait pu dire « ki » ou « im ». Elle a choisi le talon, la partie la plus basse du corps, celle qui n'a presque pas de sensibilité, celle qui marche dans la poussière. Rachi y voit les mitsvot que l'homme foule du talon, celles qu'on trouve sans importance. Et le Midrach y voit aussi une époque : ikveta dimechi'ha, les talons de Machia'h, la génération qui marche tout en bas de l'histoire. C'est nous. Alors la question de ce soir : est-ce que la Torah nous plaint, ou est-ce qu'elle nous fait un compliment ?", "src": "Devarim 7:12 ; Rachi"},
-    {"t": "0:50", "h": "1. Deux paragraphes du Chema", "p": "Le Rabbi remarque que Vaet'hanan et Eikev ont un point commun : chacune contient un paragraphe du Chema. Et les différences sautent aux yeux. Le premier dit « de tout ton pouvoir », au singulier, et met la Torah avant les mitsvot. Le second ne parle plus de « tout votre pouvoir », il est au pluriel, il met les mitsvot avant la Torah, et Rachi ajoute que les tefillin et la mezouza y sont répétés pour dire : « même après votre exil ». Vaet'hanan, explique le Rabbi, c'est le don gratuit, la lumière qui vient d'en haut et réveille en nous la ye'hida, d'où « tout ton pouvoir ». Eikev, c'est le temps où rien ne brille d'en haut, comme le talon qui n'a pas de vitalité. Là, on sert D.ieu avec ses dix forces, « de tout votre cœur, de toute votre âme », dans l'action. Et parce que ce service repose sur la force de l'homme, il tient « même après l'exil ».", "src": "Likoutei Si'hot vol. 9 p. 79"},
-    {"t": "2:00", "h": "2. Le bitoul de l'exil pèse plus lourd", "p": "On pourrait croire que c'est un lot de consolation. Le Rabbi dit le contraire. Au temps du Temple, la sainteté brillait à découvert ; on se prosternait, on s'annulait entièrement. Mais ce bitoul naissait des forces révélées de l'homme, de ce qu'il voyait et ressentait ; il restait donc attaché à son « moi ». Grande quantité, qualité imparfaite. En exil, le Juif ne voit rien ; son bitoul est plus modeste, un simple « je fais ce qu'on me demande ». Petite quantité, mais qualité parfaite, puisque rien de son ego n'y est mêlé. Et c'est ce bitoul-là qui attire l'Essence même de D.ieu, au-delà de toute lumière proportionnée au service. Voilà pourquoi le verset suspend l'alliance et le serment à « au talon vous écouterez » : le serment ne dépend pas de nous, mais ce qu'il fait descendre, c'est notre bitoul de talon qui le mérite.", "src": "Likoutei Si'hot vol. 9 p. 71"},
-    {"t": "3:15", "h": "3. La mitsva porte le nom de celui qui l'achève", "p": "Un troisième angle, dans Rachi sur « toute la mitsva ». Le verset conditionne l'entrée en Terre à « toute la mitsva » ; or dans le désert on ne pouvait accomplir qu'une petite partie des mitsvot. Rachi répond : « selon le sens simple », toutes celles qu'on pouvait faire alors. Mais le singulier reste étrange, et Rachi ajoute le Midrach : « si tu as commencé une mitsva, achève-la, car elle porte le nom de celui qui l'achève », comme les ossements de Yossef, montés par Moché, enterrés par Israël et nommés d'après eux. Le vin de la Torah : notre génération des talons ne fait qu'achever le travail de toutes celles qui l'ont précédée. Mais c'est elle qui donnera son nom à la mitsva. Et pour ceux qui ont commencé à diffuser les sources : pas le droit de passer à autre chose.", "src": "Likoutei Si'hot vol. 19 p. 94"},
-    {"t": "4:15", "h": "Chute — la moitié de la guérison", "p": "Reste une objection : le talon, c'est aussi le désert, « le grand et terrible désert, serpent, saraf, scorpion, soif sans eau ». Le Rabbi décrit ces étapes comme un diagnostic de l'exil : croire que le désert est plus grand que soi, avoir peur même dans sa synagogue, brûler pour ce monde ou se refroidir pour tout, ne plus savoir que sa soif est une soif de Torah. Mais il ouvre par une règle : connaître la maladie est la moitié de la guérison, et elle conduit à l'autre moitié. Alors, ce soir, on ne se plaint pas d'être au talon. On regarde le désert en face, on nomme le serpent, on retourne sa chaleur vers la sainteté. Un pas de talon, sans lumière, avec ses propres forces ; c'est ce pas-là qui attire l'Essence.", "src": "Likoutei Si'hot vol. 2 p. 371"}
-   ]},
-  {"title": "« Pourquoi Moché a saisi les Tables »",
+    {
+     "t": "0:00",
+     "h": "Accroche — un mot bizarre",
+     "p": "La paracha commence par un mot qu'on traduit d'habitude par « parce que » : « Vehaya eikev tichmeoun », « et il adviendra, parce que vous écouterez ». Mais eikev, c'est d'abord le talon. La Torah aurait pu dire « ki » ou « im ». Elle a choisi le talon, la partie la plus basse du corps, celle qui n'a presque pas de sensibilité, celle qui marche dans la poussière. Rachi y voit les mitsvot que l'homme foule du talon, celles qu'on trouve sans importance. Et le Midrach y voit aussi une époque : ikveta dimechi'ha, les talons de Machia'h, la génération qui marche tout en bas de l'histoire. C'est nous. Alors la question de ce soir : est-ce que la Torah nous plaint, ou est-ce qu'elle nous fait un compliment ?",
+     "src": "Devarim 7:12 ; Rachi"
+    },
+    {
+     "t": "0:53",
+     "h": "1. Deux paragraphes du Chema",
+     "p": "Le Rabbi remarque que Vaet'hanan et Eikev ont un point commun : chacune contient un paragraphe du Chema. Et les différences sautent aux yeux. Le premier dit « de tout ton pouvoir », au singulier, et met la Torah avant les mitsvot. Le second ne parle plus de « tout votre pouvoir », il est au pluriel, il met les mitsvot avant la Torah, et Rachi ajoute que les tefillin et la mezouza y sont répétés pour dire : « même après votre exil ». Vaet'hanan, explique le Rabbi, c'est le don gratuit, la lumière qui vient d'en haut et réveille en nous la ye'hida, d'où « tout ton pouvoir ». Eikev, c'est le temps où rien ne brille d'en haut, comme le talon qui n'a pas de vitalité. Là, on sert D.ieu avec ses dix forces, « de tout votre cœur, de toute votre âme », dans l'action. Et parce que ce service repose sur la force de l'homme, il tient « même après l'exil ».",
+     "src": "Likoutei Si'hot vol. 9 p. 79"
+    },
+    {
+     "t": "2:00",
+     "h": "2. Le bitoul de l'exil pèse plus lourd",
+     "p": "On pourrait croire que c'est un lot de consolation. Le Rabbi dit le contraire. Au temps du Temple, la sainteté brillait à découvert ; on se prosternait, on s'annulait entièrement. Mais ce bitoul naissait des forces révélées de l'homme, de ce qu'il voyait et ressentait ; il restait donc attaché à son « moi ». Grande quantité, qualité imparfaite. En exil, le Juif ne voit rien ; son bitoul est plus modeste, un simple « je fais ce qu'on me demande ». Petite quantité, mais qualité parfaite, puisque rien de son ego n'y est mêlé. Et c'est ce bitoul-là qui attire l'Essence même de D.ieu, au-delà de toute lumière proportionnée au service. Voilà pourquoi le verset suspend l'alliance et le serment à « au talon vous écouterez » : le serment ne dépend pas de nous, mais ce qu'il fait descendre, c'est notre bitoul de talon qui le mérite.",
+     "src": "Likoutei Si'hot vol. 9 p. 71"
+    },
+    {
+     "t": "3:00",
+     "h": "3. La mitsva porte le nom de celui qui l'achève",
+     "p": "Un troisième angle, dans Rachi sur « toute la mitsva ». Le verset conditionne l'entrée en Terre à « toute la mitsva » ; or dans le désert on ne pouvait accomplir qu'une petite partie des mitsvot. Rachi répond : « selon le sens simple », toutes celles qu'on pouvait faire alors. Mais le singulier reste étrange, et Rachi ajoute le Midrach : « si tu as commencé une mitsva, achève-la, car elle porte le nom de celui qui l'achève », comme les ossements de Yossef, montés par Moché, enterrés par Israël et nommés d'après eux. Le vin de la Torah : notre génération des talons ne fait qu'achever le travail de toutes celles qui l'ont précédée. Mais c'est elle qui donnera son nom à la mitsva. Et pour ceux qui ont commencé à diffuser les sources : pas le droit de passer à autre chose.",
+     "src": "Likoutei Si'hot vol. 19 p. 94"
+    },
+    {
+     "t": "3:58",
+     "h": "Chute — la moitié de la guérison",
+     "p": "Reste une objection : le talon, c'est aussi le désert, « le grand et terrible désert, serpent, saraf, scorpion, soif sans eau ». Le Rabbi décrit ces étapes comme un diagnostic de l'exil : croire que le désert est plus grand que soi, avoir peur même dans sa synagogue, brûler pour ce monde ou se refroidir pour tout, ne plus savoir que sa soif est une soif de Torah. Mais il ouvre par une règle : connaître la maladie est la moitié de la guérison, et elle conduit à l'autre moitié. Alors, ce soir, on ne se plaint pas d'être au talon. On regarde le désert en face, on nomme le serpent, on retourne sa chaleur vers la sainteté. Un pas de talon, sans lumière, avec ses propres forces ; c'est ce pas-là qui attire l'Essence.",
+     "src": "Likoutei Si'hot vol. 2 p. 371"
+    }
+   ],
+   "minutes": 5
+  },
+  {
+   "title": "« Pourquoi Moché a saisi les Tables »",
    "angle": "Le 20 Av et les Tables brisées : ce qu'un juste prend sur lui et ce que la pierre elle-même a de divin ; pour un chiour autour de la hilloula de Rabbi Lévi Its'hak.",
-   "refs": ["Vol. 34 p. 51", "Vol. 14 p. 30", "Vol. 29 p. 49", "Vol. 19 p. 106"],
+   "refs": [
+    "Vol. 34 p. 51",
+    "Vol. 14 p. 30",
+    "Vol. 29 p. 49",
+    "Vol. 19 p. 106"
+   ],
    "steps": [
-    {"t": "0:00", "h": "Accroche — un geste de trop", "p": "Moché raconte, dans notre paracha, le moment le plus dur de sa vie : « je saisis les deux Tables, je les jetai de mes deux mains et je les brisai sous vos yeux ». Le Or Ha'haïm s'arrête sur un mot : « je saisis ». Pourquoi saisir ce qu'on tient déjà ? Moché descend de la montagne avec les Tables dans les bras ; il n'a pas besoin de les attraper. Et une deuxième question, plus grave, que pose le Rabbi : les Tables sont-elles à lui ? Si elles appartiennent à la communauté, comme l'Arche et le Michkan, alors les briser, c'est détruire un bien public. De quel droit ? Ce Chabbat Eikev tombe près du 20 Av, la hilloula du père du Rabbi, Rabbi Lévi Its'hak. On va voir que les deux histoires n'en font qu'une.", "src": "Devarim 9:17 ; Or Ha'haïm"},
-    {"t": "0:50", "h": "1. Les acquérir pour les briser", "p": "Le Rabbi répond : l'Arche est à la communauté, mais les Tables ont été données à Moché — « Il donna à Moché… deux Tables de pierre » —, et le Tan'houma dit des secondes : « taille pour toi, à ton mérite, elles sont à toi ». Seulement Moché avait l'intention, dès le départ, de les remettre à Israël ; il ne les avait donc pas vraiment acquises. Alors il les saisit, pour les faire siennes, pour qu'elles ne soient pas un bien public, et seulement ensuite il les brise. En pnimiout, c'est un acte d'amour : Moché prend les Tables en sa possession pour qu'aucune part de responsabilité dans leur bris ne retombe sur Israël. Un juste ne quitte pas son troupeau ; il expie même le volontaire, comme Moché, étranger à la faute du veau, s'arrangea pour que lui seul réponde du bris. Voilà le lien avec « la mort des justes est dure comme le bris des Tables ».", "src": "Likoutei Si'hot vol. 34 p. 51"},
-    {"t": "2:00", "h": "2. Elles n'ont plus de substance", "p": "Le Midrach raconte que Moché vit les lettres s'envoler et dit : « comment les leur donner, elles n'ont plus de substance ». Le Rabbi demande : les Tables sont « œuvre de D.ieu », comment n'auraient-elles plus de substance ? Réponse : elles ont leur sainteté propre, mais gravées de l'écriture divine, elles s'étaient élevées bien plus haut ; en redescendre, c'est une chute telle qu'elles ne comptent plus. Et c'est exactement la mort des justes : le corps a sa sainteté, mais uni à l'âme il est monté ; perdre cette union est une chute immense. Pourtant Israël emportait les fragments à la guerre. Pourquoi ? Pour se rappeler qu'on ne se contente pas de ses acquis, qu'il faut monter « de force en force ». Le but de la descente est une montée sans commune mesure, qui se renouvelle chaque année au jour du départ. D'où le sens de la hilloula d'un juste parti en exil.", "src": "Likoutei Si'hot vol. 14 p. 30"},
-    {"t": "3:15", "h": "3. Deux Tables exactement égales", "p": "Rachi ajoute un détail dans notre paracha : « lou'hot est écrit défectif, car les deux sont égales ». Le Rabbi remarque que Rachi n'explique pas chaque graphie défective ; il le fait quand on attendrait une graphie pleine, comme « meorot », jour de malédiction, dans une Création dite bonne. Ici, Moché souligne la grandeur des Tables, « écrites du doigt de D.ieu » ; on attendrait « lou'hot » plein. Rachi répond, sans dire « défectif » : les deux sont égales, et c'est cela leur grandeur, car aucune main humaine n'atteint une égalité parfaite, d'autant que les cinq dernières paroles ont moins de lettres que les cinq premières. Et Rachi le dit après le verset 9, quand les Tables sont déjà dans les mains de Moché : même données à l'homme, la pierre elle-même reste divine. Voilà ce qu'on brise, et voilà ce qu'on refait.", "src": "Likoutei Si'hot vol. 29 p. 49"},
-    {"t": "4:15", "h": "Chute — les déchets sont à toi", "p": "Sur les secondes Tables, « taille pour toi », la Guemara dit : « les déchets seront à toi ». Le Rabbi Maharach s'étonne : au désert, sans construction de pierre, les éclats ne valent rien, pourquoi un ordre spécial ? Parce que c'était du saphir : même les déchets comptaient. Et le Rabbi en donne le sens intérieur : les secondes Tables, taillées par Moché, figurent la Torah telle qu'elle descend ici-bas, où l'occultation impose l'effort, la peine, les « déchets ». Mais c'est par cet effort qu'on atteint l'essence de la Torah, plus haut que les premières Tables données d'en haut. Rabbi Lévi Its'hak, en exil, sans livres, écrivait ses commentaires avec de l'encre faite d'herbes. Des déchets de saphir. Au 20 Av, son âme monte, et en même temps, dit le Rabbi, « elle opère des délivrances au sein de la terre ».", "src": "Likoutei Si'hot vol. 19 p. 106 ; vol. 34 p. 51"}
-   ]},
-  {"title": "« Une maison qui rappelle »",
+    {
+     "t": "0:00",
+     "h": "Accroche — un geste de trop",
+     "p": "Moché raconte, dans notre paracha, le moment le plus dur de sa vie : « je saisis les deux Tables, je les jetai de mes deux mains et je les brisai sous vos yeux ». Le Or Ha'haïm s'arrête sur un mot : « je saisis ». Pourquoi saisir ce qu'on tient déjà ? Moché descend de la montagne avec les Tables dans les bras ; il n'a pas besoin de les attraper. Et une deuxième question, plus grave, que pose le Rabbi : les Tables sont-elles à lui ? Si elles appartiennent à la communauté, comme l'Arche et le Michkan, alors les briser, c'est détruire un bien public. De quel droit ? Ce Chabbat Eikev tombe près du 20 Av, la hilloula du père du Rabbi, Rabbi Lévi Its'hak. On va voir que les deux histoires n'en font qu'une.",
+     "src": "Devarim 9:17 ; Or Ha'haïm"
+    },
+    {
+     "t": "0:56",
+     "h": "1. Les acquérir pour les briser",
+     "p": "Le Rabbi répond : l'Arche est à la communauté, mais les Tables ont été données à Moché — « Il donna à Moché… deux Tables de pierre » —, et le Tan'houma dit des secondes : « taille pour toi, à ton mérite, elles sont à toi ». Seulement Moché avait l'intention, dès le départ, de les remettre à Israël ; il ne les avait donc pas vraiment acquises. Alors il les saisit, pour les faire siennes, pour qu'elles ne soient pas un bien public, et seulement ensuite il les brise. En pnimiout, c'est un acte d'amour : Moché prend les Tables en sa possession pour qu'aucune part de responsabilité dans leur bris ne retombe sur Israël. Un juste ne quitte pas son troupeau ; il expie même le volontaire, comme Moché, étranger à la faute du veau, s'arrangea pour que lui seul réponde du bris. Voilà le lien avec « la mort des justes est dure comme le bris des Tables ».",
+     "src": "Likoutei Si'hot vol. 34 p. 51"
+    },
+    {
+     "t": "2:01",
+     "h": "2. Elles n'ont plus de substance",
+     "p": "Le Midrach raconte que Moché vit les lettres s'envoler et dit : « comment les leur donner, elles n'ont plus de substance ». Le Rabbi demande : les Tables sont « œuvre de D.ieu », comment n'auraient-elles plus de substance ? Réponse : elles ont leur sainteté propre, mais gravées de l'écriture divine, elles s'étaient élevées bien plus haut ; en redescendre, c'est une chute telle qu'elles ne comptent plus. Et c'est exactement la mort des justes : le corps a sa sainteté, mais uni à l'âme il est monté ; perdre cette union est une chute immense. Pourtant Israël emportait les fragments à la guerre. Pourquoi ? Pour se rappeler qu'on ne se contente pas de ses acquis, qu'il faut monter « de force en force ». Le but de la descente est une montée sans commune mesure, qui se renouvelle chaque année au jour du départ. D'où le sens de la hilloula d'un juste parti en exil.",
+     "src": "Likoutei Si'hot vol. 14 p. 30"
+    },
+    {
+     "t": "3:04",
+     "h": "3. Deux Tables exactement égales",
+     "p": "Rachi ajoute un détail dans notre paracha : « lou'hot est écrit défectif, car les deux sont égales ». Le Rabbi remarque que Rachi n'explique pas chaque graphie défective ; il le fait quand on attendrait une graphie pleine, comme « meorot », jour de malédiction, dans une Création dite bonne. Ici, Moché souligne la grandeur des Tables, « écrites du doigt de D.ieu » ; on attendrait « lou'hot » plein. Rachi répond, sans dire « défectif » : les deux sont égales, et c'est cela leur grandeur, car aucune main humaine n'atteint une égalité parfaite, d'autant que les cinq dernières paroles ont moins de lettres que les cinq premières. Et Rachi le dit après le verset 9, quand les Tables sont déjà dans les mains de Moché : même données à l'homme, la pierre elle-même reste divine. Voilà ce qu'on brise, et voilà ce qu'on refait.",
+     "src": "Likoutei Si'hot vol. 29 p. 49"
+    },
+    {
+     "t": "4:04",
+     "h": "Chute — les déchets sont à toi",
+     "p": "Sur les secondes Tables, « taille pour toi », la Guemara dit : « les déchets seront à toi ». Le Rabbi Maharach s'étonne : au désert, sans construction de pierre, les éclats ne valent rien, pourquoi un ordre spécial ? Parce que c'était du saphir : même les déchets comptaient. Et le Rabbi en donne le sens intérieur : les secondes Tables, taillées par Moché, figurent la Torah telle qu'elle descend ici-bas, où l'occultation impose l'effort, la peine, les « déchets ». Mais c'est par cet effort qu'on atteint l'essence de la Torah, plus haut que les premières Tables données d'en haut. Rabbi Lévi Its'hak, en exil, sans livres, écrivait ses commentaires avec de l'encre faite d'herbes. Des déchets de saphir. Au 20 Av, son âme monte, et en même temps, dit le Rabbi, « elle opère des délivrances au sein de la terre ».",
+     "src": "Likoutei Si'hot vol. 19 p. 106 ; vol. 34 p. 51"
+    }
+   ],
+   "minutes": 5
+  },
+  {
+   "title": "« Une maison qui rappelle »",
    "angle": "La mezouza qui protège et qui aide, et la bénédiction après le repas : trois si'hot pour une famille ou un cours de maison, avec la campagne de mezouza en ligne de mire.",
-   "refs": ["Vol. 19 p. 121", "Vol. 29 p. 61", "Vol. 24 p. 67"],
+   "refs": [
+    "Vol. 19 p. 121",
+    "Vol. 29 p. 61",
+    "Vol. 24 p. 67"
+   ],
    "steps": [
-    {"t": "0:00", "h": "Accroche — une question de prison", "p": "Le Rabbi précédent, en prison à Léningrad, se fait interroger. On lui demande, pour l'humilier : sais-tu où tu te trouves ? Il répond : « dans une maison dispensée de mezouza ». Une réponse de halakha, au milieu d'un interrogatoire. Pourquoi cette réponse-là ? Le Rabbi l'explique dans une si'ha sur notre paracha, où l'on trouve les deux versets de la mezouza : « tu les écriras sur les montants de ta maison et sur tes portes, afin que se multiplient vos jours ». On va voir que ce petit rouleau sur la porte est peut-être la mitsva la plus honnête de la Torah, parce qu'elle dit tout haut ce que les autres taisent : elle protège. Et que la maison juive commence à la porte et se termine à table.", "src": "Devarim 11:20"},
-    {"t": "0:50", "h": "1. Une protection qui fait partie de la mitsva", "p": "En général, accomplir une mitsva pour la récompense, c'est « pas pour elle-même ». Mais le Tour dit que la mezouza protège la maison, et le Ba'h précise : c'est un profit qui vient du corps même de la mitsva, en plus de la récompense. Autrement dit, D.ieu nous a ordonné de poser une mezouza pour protéger ; viser cette protection, c'est viser la mitsva. Le Rambam condamne ceux qui écrivent des noms d'anges à l'intérieur, comme une amulette. Le Rabbi lit : la sottise n'est pas de vouloir être protégé, mais d'ajouter des noms, signe qu'on cherche un talisman pour les vanités du monde et non la protection de la mitsva. Conséquence : même hors de sa place, la mezouza garde une segoula, puisque la protection est de son essence ; le Tossefot Yom Tov mentionne des gens qui la portaient sur eux. D'où le Rabbi précédent : nommer la mezouza, même en négatif, c'est déjà s'y attacher.", "src": "Likoutei Si'hot vol. 19 p. 121"},
-    {"t": "2:00", "h": "2. Une aide, pas une machine", "p": "Le Rambam clôt les lois de mezouza par une phrase superbe : chaque fois qu'on entre et qu'on sort, on rencontre l'unité de D.ieu, on se souvient de Son amour, on s'éveille de son sommeil et on revient aussitôt à la droiture. Puis il cite : quiconque a tefillin, tsitsit et mezouza est présumé ne pas fauter. Pourquoi dans les lois de mezouza, et pas des tefillin ? Le Rabbi remarque le mot : « attentif à la mezouza », pas « à la mitsva de mezouza ». Le Rambam parle de l'objet et de son effet sur l'homme. Les tefillin agissent par leur sainteté ; les tsitsit parce que la Torah y a suspendu toutes les mitsvot ; la mezouza, elle, rappelle par elle-même. Et le Rambam finit par « Berikh Ra'hmana dessayan », qui aide. Aider, c'est ne pas tout faire à ta place, mais faire que tu te réveilles toi-même. Et cette aide est fixée dans le tefa'h le plus proche de la rue : elle nous suit dehors.", "src": "Likoutei Si'hot vol. 29 p. 61"},
-    {"t": "3:15", "h": "3. Et à table, bénir D.ieu seul", "p": "Passons de la porte à la table : « tu mangeras, tu seras rassasié et tu béniras Hachem ton D.ieu ». Le Rabbi compare trois formulations d'Admour Hazaken et du Rambam. Dans son Choul'han Aroukh, Admour Hazaken écrit « bénir Hachem » ; dans le Siddour, il cite le verset entier mais omet « ton D.ieu ». Pourquoi ? Le Choul'han Aroukh rassemble toutes les lois et doit prévenir les erreurs : le mot « èt » vient inclure, et l'on en déduit qu'on bénit aussi le maître de maison ; il fallait donc préciser que l'obligation biblique est de bénir D.ieu seul. Le Siddour, lui, guide l'acte sur place ; il cite le verset parce que cela ajoute de la compréhension et du plaisir, mais laisse « ton D.ieu », dont la Tossefta tire « bénir sur le mal comme sur le bien », étranger à une bénédiction de satiété et de plaisir. Birkat Hamazon, c'est bénir D.ieu pour le plaisir du corps.", "src": "Likoutei Si'hot vol. 24 p. 67"},
-    {"t": "4:15", "h": "Chute — la terre et sa plénitude", "p": "La même si'ha explique un « etc. » : « qui jouit de ce monde sans bénédiction profane le sacré, car à Hachem la terre et sa plénitude, etc. ». Dans le Siddour, Admour Hazaken ajoute « etc. » pour renvoyer à la suite du verset, « le monde et ses habitants » : pas seulement la Terre d'Israël, mais tout, même ce qui appartient à un autre ou à un non-Juif ; en jouir sans bénir, c'est toucher au sacré. Voilà la maison juive selon Eikev : une porte qui rappelle et qui aide, une table où rien ne se mange sans remercier. Et le Rabbi tire de la si'ha sur la mezouza une seule conclusion : la campagne de mezouza. Vérifier la sienne, en offrir une, en parler à un voisin, parce que « D.ieu gardera ta sortie et ton entrée, dès maintenant et pour toujours ».", "src": "Likoutei Si'hot vol. 24 p. 67 ; vol. 19 p. 121"}
-   ]},
-  {"title": "« D.ieu prend-Il un pot-de-vin ? »",
+    {
+     "t": "0:00",
+     "h": "Accroche — une question de prison",
+     "p": "Le Rabbi précédent, en prison à Léningrad, se fait interroger. On lui demande, pour l'humilier : sais-tu où tu te trouves ? Il répond : « dans une maison dispensée de mezouza ». Une réponse de halakha, au milieu d'un interrogatoire. Pourquoi cette réponse-là ? Le Rabbi l'explique dans une si'ha sur notre paracha, où l'on trouve les deux versets de la mezouza : « tu les écriras sur les montants de ta maison et sur tes portes, afin que se multiplient vos jours ». On va voir que ce petit rouleau sur la porte est peut-être la mitsva la plus honnête de la Torah, parce qu'elle dit tout haut ce que les autres taisent : elle protège. Et que la maison juive commence à la porte et se termine à table.",
+     "src": "Devarim 11:20"
+    },
+    {
+     "t": "0:52",
+     "h": "1. Une protection qui fait partie de la mitsva",
+     "p": "En général, accomplir une mitsva pour la récompense, c'est « pas pour elle-même ». Mais le Tour dit que la mezouza protège la maison, et le Ba'h précise : c'est un profit qui vient du corps même de la mitsva, en plus de la récompense. Autrement dit, D.ieu nous a ordonné de poser une mezouza pour protéger ; viser cette protection, c'est viser la mitsva. Le Rambam condamne ceux qui écrivent des noms d'anges à l'intérieur, comme une amulette. Le Rabbi lit : la sottise n'est pas de vouloir être protégé, mais d'ajouter des noms, signe qu'on cherche un talisman pour les vanités du monde et non la protection de la mitsva. Conséquence : même hors de sa place, la mezouza garde une segoula, puisque la protection est de son essence ; le Tossefot Yom Tov mentionne des gens qui la portaient sur eux. D'où le Rabbi précédent : nommer la mezouza, même en négatif, c'est déjà s'y attacher.",
+     "src": "Likoutei Si'hot vol. 19 p. 121"
+    },
+    {
+     "t": "1:56",
+     "h": "2. Une aide, pas une machine",
+     "p": "Le Rambam clôt les lois de mezouza par une phrase superbe : chaque fois qu'on entre et qu'on sort, on rencontre l'unité de D.ieu, on se souvient de Son amour, on s'éveille de son sommeil et on revient aussitôt à la droiture. Puis il cite : quiconque a tefillin, tsitsit et mezouza est présumé ne pas fauter. Pourquoi dans les lois de mezouza, et pas des tefillin ? Le Rabbi remarque le mot : « attentif à la mezouza », pas « à la mitsva de mezouza ». Le Rambam parle de l'objet et de son effet sur l'homme. Les tefillin agissent par leur sainteté ; les tsitsit parce que la Torah y a suspendu toutes les mitsvot ; la mezouza, elle, rappelle par elle-même. Et le Rambam finit par « Berikh Ra'hmana dessayan », qui aide. Aider, c'est ne pas tout faire à ta place, mais faire que tu te réveilles toi-même. Et cette aide est fixée dans le tefa'h le plus proche de la rue : elle nous suit dehors.",
+     "src": "Likoutei Si'hot vol. 29 p. 61"
+    },
+    {
+     "t": "3:05",
+     "h": "3. Et à table, bénir D.ieu seul",
+     "p": "Passons de la porte à la table : « tu mangeras, tu seras rassasié et tu béniras Hachem ton D.ieu ». Le Rabbi compare trois formulations d'Admour Hazaken et du Rambam. Dans son Choul'han Aroukh, Admour Hazaken écrit « bénir Hachem » ; dans le Siddour, il cite le verset entier mais omet « ton D.ieu ». Pourquoi ? Le Choul'han Aroukh rassemble toutes les lois et doit prévenir les erreurs : le mot « èt » vient inclure, et l'on en déduit qu'on bénit aussi le maître de maison ; il fallait donc préciser que l'obligation biblique est de bénir D.ieu seul. Le Siddour, lui, guide l'acte sur place ; il cite le verset parce que cela ajoute de la compréhension et du plaisir, mais laisse « ton D.ieu », dont la Tossefta tire « bénir sur le mal comme sur le bien », étranger à une bénédiction de satiété et de plaisir. Birkat Hamazon, c'est bénir D.ieu pour le plaisir du corps.",
+     "src": "Likoutei Si'hot vol. 24 p. 67"
+    },
+    {
+     "t": "4:10",
+     "h": "Chute — la terre et sa plénitude",
+     "p": "La même si'ha explique un « etc. » : « qui jouit de ce monde sans bénédiction profane le sacré, car à Hachem la terre et sa plénitude, etc. ». Dans le Siddour, Admour Hazaken ajoute « etc. » pour renvoyer à la suite du verset, « le monde et ses habitants » : pas seulement la Terre d'Israël, mais tout, même ce qui appartient à un autre ou à un non-Juif ; en jouir sans bénir, c'est toucher au sacré. Voilà la maison juive selon Eikev : une porte qui rappelle et qui aide, une table où rien ne se mange sans remercier. Et le Rabbi tire de la si'ha sur la mezouza une seule conclusion : la campagne de mezouza. Vérifier la sienne, en offrir une, en parler à un voisin, parce que « D.ieu gardera ta sortie et ton entrée, dès maintenant et pour toujours ».",
+     "src": "Likoutei Si'hot vol. 24 p. 67 ; vol. 19 p. 121"
+    }
+   ],
+   "minutes": 5
+  },
+  {
+   "title": "« D.ieu prend-Il un pot-de-vin ? »",
    "angle": "Techouva, mitsvot légères et effort au-delà du devoir : trois si'hot pour préparer Elloul avec un public qui aime les questions dérangeantes.",
-   "refs": ["Vol. 24 p. 73", "Vol. 34 p. 59", "Vol. 19 p. 89", "Vol. 19 p. 115"],
+   "refs": [
+    "Vol. 24 p. 73",
+    "Vol. 34 p. 59",
+    "Vol. 19 p. 89",
+    "Vol. 19 p. 115"
+   ],
    "steps": [
-    {"t": "0:00", "h": "Accroche — un verset et un Midrach qui se contredisent", "p": "Notre paracha dit de D.ieu : « qui ne fait pas de faveur et ne prend pas de pot-de-vin ». Très bien. Mais le Midrach affirme que D.ieu accepte le pot-de-vin des méchants : la techouva et les bonnes actions. Comment tenir les deux ? Et d'ailleurs, pourquoi la Torah éprouve-t-elle le besoin de préciser que D.ieu ne se laisse pas acheter ? Qui aurait pu croire le contraire, alors qu'Il nous interdit Lui-même le pot-de-vin ? À quelques jours d'Elloul, cette question n'est pas académique. On va tous, dans un mois, se présenter devant le Juge avec un dossier imparfait et une techouva imparfaite. Alors : est-ce qu'on essaie d'acheter le Juge, et est-ce que ça marche ?", "src": "Devarim 10:17 ; Midrach"},
-    {"t": "0:50", "h": "1. Rachi : « si vous rejetez Son joug »", "p": "Rachi commente : « Il ne fait pas de faveur : si vous rejetez Son joug. Il ne prend pas de pot-de-vin : L'apaiser par de l'argent ». Le Rabbi demande pourquoi ces précisions. Réponse : la paracha s'ouvre par « que demande D.ieu de toi, sinon de craindre », que Rachi lit : « bien que vous ayez fait tout cela, Il vous chérit encore ». D.ieu fait donc faveur à Israël. Le verset ne peut donc viser des fautes ordinaires, couvertes par « que D.ieu élève Sa face vers toi » ; il vise celui qui rejette tout le joug. Et pourquoi « argent » plutôt que mitsvot ? Parce que Rachi a déjà enseigné que l'argent peut être une rançon à la place de l'homme, l'argent étant « la vie de l'âme ». D'où « Il ne prend pas » : l'argent pourrait racheter, sauf pour qui rejette tout. La Michna d'Avot, elle, parle de qui fait des mitsvot et croit qu'elles effacent ses fautes : non. Seule la techouva change les fautes en mérites.", "src": "Likoutei Si'hot vol. 24 p. 73"},
-    {"t": "2:00", "h": "2. Le pot-de-vin de la techouva", "p": "Reste la question de fond : si la techouva expie, le pardon est de droit, et ce n'est pas un pot-de-vin. Le Rabbi distingue deux faces de l'expiation. Du côté de l'objet : la faute est réparée. Du côté de la personne : ce n'est plus le même homme qui a fauté, et même si l'acte demeure, il n'est pas puni. La différence apparaît dans les cas « tordus, qu'on ne peut redresser » : là, l'objet ne se répare pas, mais l'homme peut encore changer. Or le changement de la personne n'est complet que par une techouva parfaite. Et pourtant D.ieu pardonne aussi une techouva imparfaite. Vu de l'homme, c'est un pot-de-vin. Vu de D.ieu, non : Il voit que le point du changement existe déjà, que ce n'est plus le même homme ; il ne manque que la diffusion de ce point à tout l'être. C'est cela qu'on apporte en Elloul : un point, pas une perfection.", "src": "Likoutei Si'hot vol. 34 p. 59"},
-    {"t": "3:15", "h": "3. Ce qu'on foule du talon", "p": "Mais alors, où se joue le changement ? Retour au premier mot, eikev. Le Midrach parle des « mitsvot légères qu'on jette sous ses talons », et cite David : « je ne crains pas la faute de mes talons ». Le Rabbi précise : il ne s'agit pas de quelqu'un qui ne les fait pas. Il s'agit de celui qui est d'accord qu'il faut les faire, mais après les mitsvot graves, et sans le même soin. Il a même un argument : il y a un ordre selon la Torah, d'abord les obligations, ensuite les embellissements, la piété, 'Hitat. C'est, dit le Rabbi, le conseil du penchant, car l'ordre de la réception de la Torah est « nous ferons » avant « nous écouterons », au-dessus des ordonnancements de la raison. Le point de techouva, souvent, c'est précisément la petite chose qu'on a remise à plus tard.", "src": "Likoutei Si'hot vol. 19 p. 89"},
-    {"t": "4:15", "h": "Chute — la pluie de votre terre", "p": "Une dernière si'ha, sur Rachi : « Je donnerai la pluie de votre terre : vous avez fait ce qui vous incombe, Moi aussi Je ferai ce qui M'incombe ». Le Rabbi compare avec Be'houkotaï, où la bénédiction est surnaturelle, jusqu'aux arbres stériles qui donnent des fruits. Ici, la pluie appartient à la terre : bénédiction dans la nature. Pourquoi ? Parce qu'ici « vous avez fait ce qui vous incombe », et pas plus ; là-bas, « marcher dans Mes lois » signifie peiner dans la Torah au-delà du devoir. Voilà la réponse à notre question de départ. D.ieu ne se laisse pas acheter par de l'argent, ni par un compte de mitsvot. Mais Il accueille un point de changement, et Il répond sans mesure à qui donne plus que sa mesure. En Elloul, on n'achète pas le Juge : on ramasse ce qu'on a laissé sous le talon, et on en fait un peu plus que ce qui incombe.", "src": "Likoutei Si'hot vol. 19 p. 115"}
-   ]}
+    {
+     "t": "0:00",
+     "h": "Accroche — un verset et un Midrach qui se contredisent",
+     "p": "Notre paracha dit de D.ieu : « qui ne fait pas de faveur et ne prend pas de pot-de-vin ». Très bien. Mais le Midrach affirme que D.ieu accepte le pot-de-vin des méchants : la techouva et les bonnes actions. Comment tenir les deux ? Et d'ailleurs, pourquoi la Torah éprouve-t-elle le besoin de préciser que D.ieu ne se laisse pas acheter ? Qui aurait pu croire le contraire, alors qu'Il nous interdit Lui-même le pot-de-vin ? À quelques jours d'Elloul, cette question n'est pas académique. On va tous, dans un mois, se présenter devant le Juge avec un dossier imparfait et une techouva imparfaite. Alors : est-ce qu'on essaie d'acheter le Juge, et est-ce que ça marche ?",
+     "src": "Devarim 10:17 ; Midrach"
+    },
+    {
+     "t": "0:47",
+     "h": "1. Rachi : « si vous rejetez Son joug »",
+     "p": "Rachi commente : « Il ne fait pas de faveur : si vous rejetez Son joug. Il ne prend pas de pot-de-vin : L'apaiser par de l'argent ». Le Rabbi demande pourquoi ces précisions. Réponse : la paracha s'ouvre par « que demande D.ieu de toi, sinon de craindre », que Rachi lit : « bien que vous ayez fait tout cela, Il vous chérit encore ». D.ieu fait donc faveur à Israël. Le verset ne peut donc viser des fautes ordinaires, couvertes par « que D.ieu élève Sa face vers toi » ; il vise celui qui rejette tout le joug. Et pourquoi « argent » plutôt que mitsvot ? Parce que Rachi a déjà enseigné que l'argent peut être une rançon à la place de l'homme, l'argent étant « la vie de l'âme ». D'où « Il ne prend pas » : l'argent pourrait racheter, sauf pour qui rejette tout. La Michna d'Avot, elle, parle de qui fait des mitsvot et croit qu'elles effacent ses fautes : non. Seule la techouva change les fautes en mérites.",
+     "src": "Likoutei Si'hot vol. 24 p. 73"
+    },
+    {
+     "t": "1:58",
+     "h": "2. Le pot-de-vin de la techouva",
+     "p": "Reste la question de fond : si la techouva expie, le pardon est de droit, et ce n'est pas un pot-de-vin. Le Rabbi distingue deux faces de l'expiation. Du côté de l'objet : la faute est réparée. Du côté de la personne : ce n'est plus le même homme qui a fauté, et même si l'acte demeure, il n'est pas puni. La différence apparaît dans les cas « tordus, qu'on ne peut redresser » : là, l'objet ne se répare pas, mais l'homme peut encore changer. Or le changement de la personne n'est complet que par une techouva parfaite. Et pourtant D.ieu pardonne aussi une techouva imparfaite. Vu de l'homme, c'est un pot-de-vin. Vu de D.ieu, non : Il voit que le point du changement existe déjà, que ce n'est plus le même homme ; il ne manque que la diffusion de ce point à tout l'être. C'est cela qu'on apporte en Elloul : un point, pas une perfection.",
+     "src": "Likoutei Si'hot vol. 34 p. 59"
+    },
+    {
+     "t": "3:02",
+     "h": "3. Ce qu'on foule du talon",
+     "p": "Mais alors, où se joue le changement ? Retour au premier mot, eikev. Le Midrach parle des « mitsvot légères qu'on jette sous ses talons », et cite David : « je ne crains pas la faute de mes talons ». Le Rabbi précise : il ne s'agit pas de quelqu'un qui ne les fait pas. Il s'agit de celui qui est d'accord qu'il faut les faire, mais après les mitsvot graves, et sans le même soin. Il a même un argument : il y a un ordre selon la Torah, d'abord les obligations, ensuite les embellissements, la piété, 'Hitat. C'est, dit le Rabbi, le conseil du penchant, car l'ordre de la réception de la Torah est « nous ferons » avant « nous écouterons », au-dessus des ordonnancements de la raison. Le point de techouva, souvent, c'est précisément la petite chose qu'on a remise à plus tard.",
+     "src": "Likoutei Si'hot vol. 19 p. 89"
+    },
+    {
+     "t": "4:01",
+     "h": "Chute — la pluie de votre terre",
+     "p": "Une dernière si'ha, sur Rachi : « Je donnerai la pluie de votre terre : vous avez fait ce qui vous incombe, Moi aussi Je ferai ce qui M'incombe ». Le Rabbi compare avec Be'houkotaï, où la bénédiction est surnaturelle, jusqu'aux arbres stériles qui donnent des fruits. Ici, la pluie appartient à la terre : bénédiction dans la nature. Pourquoi ? Parce qu'ici « vous avez fait ce qui vous incombe », et pas plus ; là-bas, « marcher dans Mes lois » signifie peiner dans la Torah au-delà du devoir. Voilà la réponse à notre question de départ. D.ieu ne se laisse pas acheter par de l'argent, ni par un compte de mitsvot. Mais Il accueille un point de changement, et Il répond sans mesure à qui donne plus que sa mesure. En Elloul, on n'achète pas le Juge : on ramasse ce qu'on a laissé sous le talon, et on en fait un peu plus que ce qui incombe.",
+     "src": "Likoutei Si'hot vol. 19 p. 115"
+    }
+   ],
+   "minutes": 5
+  }
  ]
 }

@@ -6,7 +6,7 @@ const bySlug=Object.fromEntries(P.map(p=>[p[0],p]));
 const norm=s=>(s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9֐-׿]+/g,' ').trim();
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 let INDEX=null, cache={}, weekSlugs=[];
-const V='?v=83e04c64';
+const V='?v=f3f7993a';
 
 /* ---------- volume label ---------- */
 const HEBNUM={'א':1,'ב':2,'ג':3,'ד':4,'ה':5,'ו':6,'ז':7,'ח':8,'ט':9,'י':10,'כ':20,'ל':30,'מ':40};
@@ -122,7 +122,7 @@ async function renderParsha(slug){
       <button role="tab" data-v="resume" ${fr?'':'disabled'}>Résumés</button>
       <button role="tab" data-v="line" ${fr?'':'title="Hébreu tant que le français n\'est pas prêt"'}>En une ligne</button>
       <button role="tab" data-v="he">Kitsour hébreu</button>
-      <button role="tab" data-v="cours" ${fr?'':'disabled'}>${fr?.courses?.length?`${fr.courses.length} chiourim de 5 min`:'Cours 5 min'}</button>
+      <button role="tab" data-v="cours" ${fr?'':'disabled'}>${fr?.courses?.length?`${fr.courses.length} chiourim`:'Chiourim'}</button>
       <span class="sp"></span>
       <label><input type="checkbox" id="hoss" ${showHoss?'checked':''}> hossafot</label>
     </div>
@@ -162,16 +162,16 @@ function labelLink(l){ return {'שיחה':'Si\'ha (PDF)','מתורגם':'Traduct
 function renderCourses(fr){
   const list=fr?.courses||[];
   if(!list.length) return '<p class="empty">Pas encore de chiour pour cette paracha.</p>';
-  const jump=`<nav class="cjump" aria-label="Les ${list.length} chiourim"><span>${list.length} chiourim, quatre angles&nbsp;:</span>${
-    list.map((k,i)=>`<a href="#" data-j="${i}">${esc(k.title)}</a>`).join('')}</nav>`;
+  const jump=`<nav class="cjump" aria-label="Les ${list.length} chiourim"><span>${list.length} chiourim, ${list.length} angles&nbsp;:</span>${
+    list.map((k,i)=>`<a href="#" data-j="${i}">${esc(k.title)}${k.minutes?` <em>${k.minutes}\u00a0min</em>`:''}</a>`).join('')}</nav>`;
   return jump+list.map((c,i)=>`
     <article class="cours" id="chiour-${i}">
-      <p class="cnum">Chiour ${i+1} sur ${list.length}</p>
+      <p class="cnum">Chiour ${i+1} sur ${list.length}${c.minutes?` · environ ${c.minutes} minutes`:''}</p>
       <h2>${esc(c.title)}</h2>
       <p class="angle">${esc(c.angle)}</p>
       <p class="refs">${esc(c.refs.join(' · '))}</p>
       ${c.steps.map(s=>`<div class="t"><div class="min">${esc(s.t)}</div><div><h4>${esc(s.h)}</h4><p>${esc(s.p)}</p>${s.src?`<p class="src">${esc(s.src)}</p>`:''}</div></div>`).join('')}
-      <div class="actions"><button data-copy="${i}">Copier ce chiour</button><button data-print="1">Imprimer les ${list.length}</button></div>
+      <div class="actions"><button data-copy="${i}">Copier ce chiour</button><button data-print="1">Imprimer les ${list.length} chiourim</button></div>
     </article>`).join('');
 }
 function bindCourses(c,fr){
