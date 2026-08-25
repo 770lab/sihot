@@ -6,7 +6,7 @@ const bySlug=Object.fromEntries(P.map(p=>[p[0],p]));
 const norm=s=>(s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9֐-׿]+/g,' ').trim();
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 let INDEX=null, cache={}, weekSlugs=[];
-const V='?v=2a78469f';
+const V='?v=9291c7ce';
 
 /* ---------- volume label ---------- */
 const HEBNUM={'א':1,'ב':2,'ג':3,'ד':4,'ה':5,'ו':6,'ז':7,'ח':8,'ט':9,'י':10,'כ':20,'ל':30,'מ':40};
@@ -197,70 +197,4 @@ function route(){
 }
 window.addEventListener('hashchange',route);
 route(); loadWeek();
-})();
-
-/* ---------- « Une question ? » : écrire à Claude depuis le site ---------- */
-(function(){
-  const REPO='770lab/sihot', MAIL='chabadclub770@gmail.com';
-  const btn=document.createElement('button');
-  btn.className='ask-fab'; btn.type='button';
-  btn.innerHTML='<span aria-hidden="true">✎</span> Une question&nbsp;?';
-  btn.setAttribute('aria-haspopup','dialog');
-  document.body.appendChild(btn);
-
-  const box=document.createElement('div');
-  box.className='ask'; box.hidden=true; box.setAttribute('role','dialog');
-  box.setAttribute('aria-label','Poser une question ou demander un ajout');
-  document.body.appendChild(box);
-
-  let ctx='';
-  function context(){
-    const h=decodeURIComponent(location.hash.replace('#','')).trim();
-    const p=window.PARSHIOT.find(x=>x[0]===h);
-    const tab=document.querySelector('.tabs button.on');
-    return (p?`Paracha : ${p[1]} (${p[2]})`:'Page : accueil')+(tab?` · vue « ${tab.textContent.trim()} »`:'');
-  }
-  function open(prefill){
-    ctx=context()+(prefill?`\nSi'ha : ${prefill}`:'');
-    box.innerHTML=`
-      <div class="ask-head"><b>Écrire à Claude</b><button class="ask-x" aria-label="Fermer">×</button></div>
-      <p class="ask-ctx">${esc(ctx).replace(/\n/g,'<br>')}</p>
-      <label class="ask-l" for="ask-t">Votre question, ou l'information à ajouter</label>
-      <textarea id="ask-t" rows="5" placeholder="Ex. : ajoute la si'ha du volume 19 sur… / d'où vient la citation du chiour « Marcher » ? / ce résumé me semble inexact parce que…"></textarea>
-      <div class="ask-go">
-        <button class="ask-primary" data-go="gh">Envoyer</button>
-        <button data-go="mail">Par e-mail</button>
-        <button data-go="copy">Copier</button>
-      </div>
-      <p class="ask-note">« Envoyer » ouvre un ticket sur le dépôt du site — c'est là que je lis vos demandes et que je réponds. Le contexte ci-dessus est joint automatiquement.</p>`;
-    box.hidden=false; btn.hidden=true;
-    box.querySelector('#ask-t').focus();
-    box.querySelector('.ask-x').onclick=close;
-    box.querySelectorAll('[data-go]').forEach(b=>b.onclick=()=>send(b.dataset.go,b));
-  }
-  function close(){ box.hidden=true; btn.hidden=false; btn.focus(); }
-  function body(){
-    const t=box.querySelector('#ask-t').value.trim();
-    return `${t||'(sans texte)'}\n\n---\n${ctx}\n${location.href}`;
-  }
-  function send(how,b){
-    const t=box.querySelector('#ask-t').value.trim();
-    if(!t){ box.querySelector('#ask-t').focus(); b.textContent='Écrivez d’abord'; setTimeout(()=>b.textContent=b.dataset.go==='gh'?'Envoyer':b.textContent,1600); return; }
-    const title=t.split('\n')[0].slice(0,70);
-    if(how==='gh'){
-      window.open(`https://github.com/${REPO}/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body())}`,'_blank','noopener');
-      close();
-    } else if(how==='mail'){
-      location.href=`mailto:${MAIL}?subject=${encodeURIComponent('[si\'hot] '+title)}&body=${encodeURIComponent(body())}`;
-    } else {
-      navigator.clipboard.writeText(body()).then(()=>{b.textContent='Copié ✓';setTimeout(()=>b.textContent='Copier',1500);});
-    }
-  }
-  btn.onclick=()=>open('');
-  document.addEventListener('keydown',e=>{ if(e.key==='Escape'&&!box.hidden) close(); });
-  document.addEventListener('click',e=>{
-    const a=e.target.closest('[data-ask]');
-    if(a){ e.preventDefault(); open(a.dataset.ask); }
-  });
-  const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 })();

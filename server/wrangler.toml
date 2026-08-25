@@ -1,0 +1,6 @@
+name = "sihot-chat"
+main = "worker.js"
+compatibility_date = "2026-08-01"
+
+# Le secret n'est pas dans ce fichier. Après le premier déploiement :
+#   npx wrangler secret put ANTHROPIC_API_KEY

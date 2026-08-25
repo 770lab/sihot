@@ -1,0 +1,6 @@
+{
+  "enabled": false,
+  "endpoint": "",
+  "note": "Claude répond d'après l'index du site. Vérifiez dans la si'ha avant d'enseigner.",
+  "_comment": "Passer enabled à true et coller l'URL du Worker (voir server/README.md). Sans endpoint, le bouton envoie un message en différé."
+}
