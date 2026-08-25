@@ -6,7 +6,7 @@ const bySlug=Object.fromEntries(P.map(p=>[p[0],p]));
 const norm=s=>(s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9֐-׿]+/g,' ').trim();
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 let INDEX=null, cache={}, weekSlugs=[];
-const V='?v=2ae80bb5';
+const V='?v=83e04c64';
 
 /* ---------- volume label ---------- */
 const HEBNUM={'א':1,'ב':2,'ג':3,'ד':4,'ה':5,'ו':6,'ז':7,'ח':8,'ט':9,'י':10,'כ':20,'ל':30,'מ':40};
@@ -99,7 +99,7 @@ async function frAvailable(){
 }
 
 /* ---------- parsha view ---------- */
-let view=localStorage.getItem('sihot_view')||'line', showHoss=true, course=0;
+let view=localStorage.getItem('sihot_view')||'resume', showHoss=true;
 async function renderParsha(slug){
   const p=bySlug[slug]; if(!p){location.hash='';return;}
   const sec=$('#parsha'); sec.hidden=false; $('#home').hidden=true;
@@ -119,10 +119,10 @@ async function renderParsha(slug){
     <div class="stats"><div class="stat"><b>${entries.length}</b><span>entrées Mafteiach</span></div><div class="stat"><b>${nS}</b><span>si'hot</span></div><div class="stat"><b>${nH}</b><span>hossafot</span></div><div class="stat"><b>${vols.length}</b><span>volumes</span></div></div>
     ${fr?'':'<p class="pending">La version française de cette paracha est en cours de rédaction. En attendant : le résumé d\'une ligne et le kitsour en hébreu (Mafteiach).</p>'}
     <div class="tabs" role="tablist">
-      <button role="tab" data-v="line" ${fr?'':'title="Hébreu tant que le français n\'est pas prêt"'}>En une ligne</button>
       <button role="tab" data-v="resume" ${fr?'':'disabled'}>Résumés</button>
+      <button role="tab" data-v="line" ${fr?'':'title="Hébreu tant que le français n\'est pas prêt"'}>En une ligne</button>
       <button role="tab" data-v="he">Kitsour hébreu</button>
-      <button role="tab" data-v="cours" ${fr?'':'disabled'}>Cours 5 min</button>
+      <button role="tab" data-v="cours" ${fr?'':'disabled'}>${fr?.courses?.length?`${fr.courses.length} chiourim de 5 min`:'Cours 5 min'}</button>
       <span class="sp"></span>
       <label><input type="checkbox" id="hoss" ${showHoss?'checked':''}> hossafot</label>
     </div>
@@ -160,23 +160,32 @@ async function renderParsha(slug){
 function labelLink(l){ return {'שיחה':'Si\'ha (PDF)','מתורגם':'Traduction hébraïque','קיצור':'Kitsour'}[l]||esc(l); }
 
 function renderCourses(fr){
-  if(!fr?.courses?.length) return '<p class="empty">Pas encore de cours pour cette paracha.</p>';
-  course=Math.min(course,fr.courses.length-1);
-  const c=fr.courses[course];
-  return `<div class="ctabs">${fr.courses.map((k,i)=>`<button data-c="${i}" class="${i===course?'on':''}"><b>${esc(k.title)}</b><small>${esc(k.refs.join(' · '))}</small></button>`).join('')}</div>
-  <div class="cours" id="coursbox"><h2>${esc(c.title)}</h2><p class="angle">${esc(c.angle)}</p><p class="refs">${esc(c.refs.join(' · '))}</p>
-  ${c.steps.map(s=>`<div class="t"><div class="min">${esc(s.t)}</div><div><h4>${esc(s.h)}</h4><p>${esc(s.p)}</p>${s.src?`<p class="src">${esc(s.src)}</p>`:''}</div></div>`).join('')}
-  </div>
-  <div class="actions"><button id="copy">Copier le texte</button><button id="print">Imprimer</button></div>`;
+  const list=fr?.courses||[];
+  if(!list.length) return '<p class="empty">Pas encore de chiour pour cette paracha.</p>';
+  const jump=`<nav class="cjump" aria-label="Les ${list.length} chiourim"><span>${list.length} chiourim, quatre angles&nbsp;:</span>${
+    list.map((k,i)=>`<a href="#" data-j="${i}">${esc(k.title)}</a>`).join('')}</nav>`;
+  return jump+list.map((c,i)=>`
+    <article class="cours" id="chiour-${i}">
+      <p class="cnum">Chiour ${i+1} sur ${list.length}</p>
+      <h2>${esc(c.title)}</h2>
+      <p class="angle">${esc(c.angle)}</p>
+      <p class="refs">${esc(c.refs.join(' · '))}</p>
+      ${c.steps.map(s=>`<div class="t"><div class="min">${esc(s.t)}</div><div><h4>${esc(s.h)}</h4><p>${esc(s.p)}</p>${s.src?`<p class="src">${esc(s.src)}</p>`:''}</div></div>`).join('')}
+      <div class="actions"><button data-copy="${i}">Copier ce chiour</button><button data-print="1">Imprimer les ${list.length}</button></div>
+    </article>`).join('');
 }
 function bindCourses(c,fr){
-  c.querySelectorAll('[data-c]').forEach(b=>b.addEventListener('click',()=>{course=+b.dataset.c;c.innerHTML=renderCourses(fr);bindCourses(c,fr);}));
-  const k=fr.courses[course];
-  $('#copy')?.addEventListener('click',()=>{
-    const txt=`${k.title}\n${k.angle}\n\n`+k.steps.map(s=>`[${s.t}] ${s.h}\n${s.p}\n(${s.src||''})`).join('\n\n');
-    navigator.clipboard.writeText(txt).then(()=>{$('#copy').textContent='Copié ✓';setTimeout(()=>$('#copy').textContent='Copier le texte',1500);});
-  });
-  $('#print')?.addEventListener('click',()=>window.print());
+  const list=fr?.courses||[];
+  c.querySelectorAll('[data-j]').forEach(a=>a.addEventListener('click',e=>{
+    e.preventDefault();
+    document.getElementById('chiour-'+a.dataset.j)?.scrollIntoView({behavior:'smooth',block:'start'});
+  }));
+  c.querySelectorAll('[data-copy]').forEach(b=>b.addEventListener('click',()=>{
+    const k=list[+b.dataset.copy];
+    const txt=`${k.title}\n${k.angle}\n${k.refs.join(' · ')}\n\n`+k.steps.map(s=>`[${s.t}] ${s.h}\n${s.p}${s.src?`\n(${s.src})`:''}`).join('\n\n');
+    navigator.clipboard.writeText(txt).then(()=>{const t=b.textContent;b.textContent='Copié ✓';setTimeout(()=>b.textContent=t,1500);});
+  }));
+  c.querySelectorAll('[data-print]').forEach(b=>b.addEventListener('click',()=>window.print()));
 }
 
 /* ---------- router ---------- */
