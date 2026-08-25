@@ -6,7 +6,7 @@ const bySlug=Object.fromEntries(P.map(p=>[p[0],p]));
 const norm=s=>(s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9֐-׿]+/g,' ').trim();
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 let INDEX=null, cache={}, weekSlugs=[];
-const V='?v=69f587d2';
+const V='?v=90d0c37f';
 
 /* ---------- volume label ---------- */
 const HEBNUM={'א':1,'ב':2,'ג':3,'ד':4,'ה':5,'ו':6,'ז':7,'ח':8,'ט':9,'י':10,'כ':20,'ל':30,'מ':40};
@@ -119,10 +119,10 @@ async function renderParsha(slug){
     <div class="stats"><div class="stat"><b>${entries.length}</b><span>entrées Mafteiach</span></div><div class="stat"><b>${nS}</b><span>si'hot</span></div><div class="stat"><b>${nH}</b><span>hossafot</span></div><div class="stat"><b>${vols.length}</b><span>volumes</span></div></div>
     ${fr?'':'<p class="pending">La version française de cette paracha est en cours de rédaction. En attendant : le résumé d\'une ligne et le kitsour en hébreu (Mafteiach).</p>'}
     <div class="tabs" role="tablist">
-      <button data-v="line" ${fr?'':'title="Hébreu tant que le français n\'est pas prêt"'}>En une ligne</button>
-      <button data-v="resume" ${fr?'':'disabled'}>Résumés</button>
-      <button data-v="he">Kitsour hébreu</button>
-      <button data-v="cours" ${fr?'':'disabled'}>Cours 5 min</button>
+      <button role="tab" data-v="line" ${fr?'':'title="Hébreu tant que le français n\'est pas prêt"'}>En une ligne</button>
+      <button role="tab" data-v="resume" ${fr?'':'disabled'}>Résumés</button>
+      <button role="tab" data-v="he">Kitsour hébreu</button>
+      <button role="tab" data-v="cours" ${fr?'':'disabled'}>Cours 5 min</button>
       <span class="sp"></span>
       <label><input type="checkbox" id="hoss" ${showHoss?'checked':''}> hossafot</label>
     </div>
@@ -130,7 +130,7 @@ async function renderParsha(slug){
   sec.querySelectorAll('.tabs [data-v]').forEach(b=>b.addEventListener('click',()=>{view=b.dataset.v;localStorage.setItem('sihot_view',view);paint();}));
   $('#hoss').addEventListener('change',e=>{showHoss=e.target.checked;paint();});
   function paint(){
-    sec.querySelectorAll('.tabs [data-v]').forEach(b=>b.classList.toggle('on',b.dataset.v===view));
+    sec.querySelectorAll('.tabs [data-v]').forEach(b=>{const on=b.dataset.v===view;b.classList.toggle('on',on);b.setAttribute('aria-selected',on);});
     const c=$('#content');
     if(view==='cours'){ c.innerHTML=renderCourses(fr); bindCourses(c,fr); return; }
     let html='';
@@ -150,7 +150,8 @@ async function renderParsha(slug){
     let body='';
     if(view==='he'){ body=`<p class="kz">${esc(h.kitzur||h.oneliner)}</p>`; }
     else if(view==='line'){ body=f?`<p class="line">${esc(f.line)}</p>`:`<p class="kz">${esc(h.oneliner)}</p>`; }
-    else { body=(f.verse?`<p class="verse">${esc(f.verse)}</p>`:'')+`<p>${esc(f.resume)}</p>`+(f.lesson?`<p class="lesson">${esc(f.lesson)}</p>`:''); }
+    else if(f){ body=(f.verse?`<p class="verse">${esc(f.verse)}</p>`:'')+`<p>${esc(f.resume)}</p>`+(f.lesson?`<p class="lesson">${esc(f.lesson)}</p>`:''); }
+    else { body=`<p class="kz">${esc(h.kitzur||h.oneliner)}</p>`; }
     return `<div class="s ${hoss?'hoss':''}"><div class="ref">${ref}${f?`<span class="he">${esc(h.title)}</span>`:''}${f?.theme?`<span class="tag">${esc(f.theme)}</span>`:''}${hoss?'<span class="tag h">hossafa</span>':''}</div><div class="body">${body}<div class="links">${links}</div></div></div>`;
   }
   paint();
