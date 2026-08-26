@@ -36,13 +36,22 @@ d'un message en différé (ticket sur le dépôt / e-mail) — jamais sur un cha
 | | |
 |---|---|
 | Origines admises | `770lab.com`, `www.770lab.com`, `localhost:8931` — modifiables dans `ALLOWED` |
-| Débit | 12 requêtes par IP et par minute |
+| Débit | 20 requêtes par IP et par minute, comptées par un Durable Object (`Limiteur`) |
 | Taille | 2 000 caractères par message, 12 tours d'historique |
 | Réponse | 2 000 tokens maximum, effort `low` |
 | Modèle | `claude-opus-5` |
 
 Le préambule est marqué en cache éphémère : les échanges qui suivent, sur la même
 paracha, coûtent nettement moins cher.
+
+**Pourquoi un Durable Object et pas un compteur en mémoire** : Cloudflare répartit les
+requêtes sur plusieurs isolats, dont chacun repart de zéro — un `Map` en mémoire laisse
+donc passer une rafale entière. Le limiteur natif (`[[ratelimits]]`) n'a pas basculé non
+plus à ce volume lors des essais. Un Durable Object par IP donne un compteur unique et
+vérifiable : testé, il renvoie 429 à partir de la 21ᵉ requête.
+
+**Plafond de dépense** : le vrai garde-fou financier est côté Anthropic — fixez une limite
+de budget sur la clé (Console → Limits). Aucun bug de ce Worker ne peut la dépasser.
 
 ## Ce que le serveur envoie à Claude
 

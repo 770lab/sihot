@@ -4,3 +4,12 @@ compatibility_date = "2026-08-01"
 
 # Le secret n'est pas dans ce fichier. Après le premier déploiement :
 #   npx wrangler secret put ANTHROPIC_API_KEY
+
+# Compteur de débit : un Durable Object par IP (strictement cohérent).
+[[durable_objects.bindings]]
+name = "LIMITEUR"
+class_name = "Limiteur"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["Limiteur"]

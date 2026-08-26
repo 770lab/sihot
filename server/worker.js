@@ -16,10 +16,6 @@ const ALLOWED = ['https://770lab.com', 'https://www.770lab.com', 'http://localho
 
 const MAX_CHARS = 2000;   // par message
 const MAX_TURNS = 12;     // historique transmis
-const WINDOW_MS = 60_000; // fenêtre du garde-fou
-const MAX_REQ = 12;       // requêtes par IP et par fenêtre
-
-const hits = new Map();   // garde-fou en mémoire (par isolat ; suffit à cet usage)
 
 function cors(origin) {
   const ok = ALLOWED.includes(origin) ? origin : ALLOWED[0];
@@ -32,14 +28,35 @@ function cors(origin) {
   };
 }
 
-function tooMany(ip) {
-  const now = Date.now();
-  const rec = hits.get(ip) || { n: 0, t: now };
-  if (now - rec.t > WINDOW_MS) { rec.n = 0; rec.t = now; }
-  rec.n += 1;
-  hits.set(ip, rec);
-  if (hits.size > 5000) for (const [k, v] of hits) if (now - v.t > WINDOW_MS) hits.delete(k);
-  return rec.n > MAX_REQ;
+/** Limiteur natif Cloudflare : partagé entre tous les isolats, contrairement à un
+ *  compteur en mémoire qui repart de zéro sur chaque isolat et ne tient pas sous charge. */
+const WINDOW_MS = 60_000;
+const MAX_REQ = 20;
+
+/** Compteur par IP, strictement cohérent : une instance de Durable Object par IP,
+ *  donc un seul compteur quel que soit le nombre d'isolats. Le limiteur natif de
+ *  Cloudflare ne basculait pas à ce volume — celui-ci est vérifiable. */
+export class Limiteur {
+  constructor(state) { this.state = state; }
+  async fetch() {
+    const now = Date.now();
+    let rec = await this.state.storage.get('r');
+    if (!rec || now - rec.t > WINDOW_MS) rec = { n: 0, t: now };
+    rec.n += 1;
+    await this.state.storage.put('r', rec);
+    return new Response(JSON.stringify({ n: rec.n, limited: rec.n > MAX_REQ }), {
+      headers: { 'content-type': 'application/json' },
+    });
+  }
+}
+
+async function tooMany(env, ip) {
+  if (!env.LIMITEUR) return false;          // en cas de liaison absente, on laisse passer
+  try {
+    const stub = env.LIMITEUR.get(env.LIMITEUR.idFromName(ip));
+    const { limited } = await stub.fetch('https://l/').then(r => r.json());
+    return limited;
+  } catch { return false; }
 }
 
 /** Le contenu réel du site : c'est lui qui ancre les réponses. */
@@ -106,7 +123,7 @@ export default {
     if (origin && !ALLOWED.includes(origin)) return new Response('Origine refusée', { status: 403, headers: h });
 
     const ip = request.headers.get('CF-Connecting-IP') || 'anon';
-    if (tooMany(ip)) return new Response('Trop de requêtes', { status: 429, headers: h });
+    if (await tooMany(env, ip)) return new Response('Trop de requêtes', { status: 429, headers: h });
 
     let body;
     try { body = await request.json(); } catch { return new Response('JSON invalide', { status: 400, headers: h }); }
